@@ -6,7 +6,8 @@ Dhruv Purohit | DH110 | Fall 2022
 
 ### About the project
 
-Add description
+The United Nations (UN) has a list of 17 Sustainable Development Goals, one of which is entitled "Life on Land" (Goal 15). According to the UN, the objective of this goal is to "protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss." For this project, I will be focusing on analyzing user interface and design aspects that would enable people all over the world to learn more and become more aware of this particular sustainability goal.  
+
 
 ### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
 
