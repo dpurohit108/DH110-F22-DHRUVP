@@ -90,7 +90,7 @@ Ratings are displayed in parentheses after each usability issue.
 ## Website 2: [SDG Tracker](https://sdg-tracker.org/biodiversity)
 
 ### About the Website & Initial Evaluation
-[SDG Tracker](https://sdg-tracker.org/biodiversity) is ...
+[SDG Tracker](https://sdg-tracker.org/biodiversity) is a website that uses data visualizations to show progress towards the goals outlined by the UN. The site does not give too much information, however, it contains so much data from the site "Our World in Data." Read on to see the issues users may experience with this site.
 
 ### Heuristic Evaluation
 
@@ -108,31 +108,32 @@ Ratings are displayed in parentheses after each usability issue.
 
 > *Recommendation: Let the user know when you take them from your site to another. 
 #### 4. Consistency and Standards
-* The website is consistent in all of its pages. It follows the consistent trend of a brief description followed by listing all the targets and respective  data charts. Each page experiences the same issues outlined above. Overalll, there are no consistency standards or surprises to the user. The overall design of the pages could be greatly improved. (1) 
+* The website is consistent in all of its pages. It follows the consistent trend of a brief description followed by listing all the targets and respective  data charts. Each page experiences the same issues outlined above. Overall, there are no consistency standards or surprises to the user. The overall design of the pages could be greatly improved. (1) 
 
 > *Recommendation: While the display is consistant, the design lacks being able to provide the user with an easy way to interact with the data. 
 #### 5. Error Prevention
-* There is no search bar, and since the website is not used beyond displaying information, there aren't too many errors that the user can make, However, when obersving the data, if they click the "Our World in Data" logo, a new tab will open with a link to that website. This may surprise users, and there is no notice letting thme know this. When cliking on other parts of the data on the maps, there are no issues that would lead to errors for the user. (2)
+* There is no search bar, and since the website is not used beyond displaying information, there aren't too many errors that the user can make. However, when observing the data, if they click the "Our World in Data" logo, a new tab will open with a link to that website. This may surprise users, and there is no notice letting them know this. When clicking on other parts of the data on the maps, there are no issues that would lead to errors for the user. (2)
 
 > *Recommendation: Oevrall, deisgn is good as it pertains to error prevention. However, letting the user know a new tab is opening may be helpful. 
 #### 6. Recognition Rather Than Recall
-* The top of the page, there is a hyperlinked tab that takes the user back to the home page. However, this is not clear. The user must either know or experiment with this to see where clicking "Sustainable Development Goals" will take them. It would be much better for the user to have more tabs at the top of the site, rather embedded withing the actual page. (3)
+* The top of the page, there is a hyperlinked tab that takes the user back to the home page. However, this is not clear. The user must either know or experiment with this to see where clicking "Sustainable Development Goals'' will take them. It would be much better for the user to have more tabs at the top of the site, rather than embedded within the actual page. (3)
 
 > *Recommendation: Create a more robust top bar, with additional tabs so the user can be more informed about where they are navigating to. 
 #### 7. Flexibility and Efficiency of Use
-* 
+* Beyond scrolling, zooming in and out on the maps, and using a cursor to view additional statistics on the maps, there is not any efficiency issues with the site. (1)
 
-> *Recommendation: 
+> *Recommendation: None!
 #### 8. Aesthetic and Minimalist Design
-* 
+* The design is poor to say the least. The website is very basic and does not provide the user with a dynamic design. While the design is minimalist, it has eliminated aspects that maintain proper aesthetics and minimalist design. The home page looks colorful and user friendly, however, upon clicking on any of the boxes (each goal has a box), it is clear that there is not too much purpose behind the design. Beyond scrolling through the endless data visualizations, there is no additional user interaction. (3)
 
-> *Recommendation: 
+> *Recommendation: This site needs an entire re-design. While the site seems simple, it lacks user interaction, making it dry and boring. Adding more features and aesthetics to the design will improve the site tremendously. 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* 
+* Once a user has clicked anywhere on the site (including the links that lead to the site "Our World in Data"), it is not possible to go back, other than clicking the back arrow on the browser. Beyond this issues, there are not many errors that the user can make. (2)
 
-> *Recommendation: 
 #### 10. Help and Documentation
-* 
+* The website does not provide the user with any help or steps to navigate the web pages. The user has no search option, leaving to only manually discover each page. This is not efficient. (2)
 
-> *Recommendation: 
+> *Recommendation: Since there is so much data being presented, it should be organized better. Additionally, a search option should be added. 
 ### Overall Assessment
+
+This site has a very simple and basic design that serves the purpose of displaying information, but makes interactions with the user difficult. While it has valuable data, there is not much of a story behind everything that is going on and being presented. What is written is not visually appealing to read and interact with. Utilizing data from other sites and areas would improve the site as well. 
