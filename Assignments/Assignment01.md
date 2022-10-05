@@ -98,6 +98,10 @@ Ratings are displayed in parentheses after each usability issue.
 #### 1. Visibility of System Status
 * The site is more or less endless. The site is designed such that as you keep scrolling, you just keep seeing more short descriptions paired with data charts. With this continuous scroll, you have the potential to lose your reader's interest. The site doesn't contain many other pages, except a similar such data page for each goal. Therefore, this issue applies to all the individual goals' pages. (3)
 
+<p align="center">
+  <img src=".web21.png" alt="Webpage Landing" width = "500px"/>
+</p>
+
 > *Recommendation: Display a progress bar or even better, have different tabs for the various targets that are listed above each data point. 
 #### 2. Match Between System and the Real World
 * At the top of the webpage, there is a short description/intro into what the goal is briefly about. However, it lacks sufficient back story on the purpose of all the data it's presenting. This applies to each goal listed on the home page. The words and data need a better and more robust backstory and description. (2)
