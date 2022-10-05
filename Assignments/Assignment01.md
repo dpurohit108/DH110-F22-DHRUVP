@@ -100,13 +100,13 @@ Ratings are displayed in parentheses after each usability issue.
 
 > *Recommendation: Display a progress bar or even better, have different tabs for the various targets that are listed above each data point. 
 #### 2. Match Between System and the Real World
-* 
+* At the top of the webpage, there is a short description/intro into what the goal is briefly about. However, it lacks sufficient back story on the purpose of all the data it's presenting. This applies to each goal listed on the home page. The words and data need a better and more robust backstory and description. (2)
 
 > *Recommendation: 
 #### 3. User Control and Freedom
-* 
+* CLicking the tab "Our World in Data" at the top bar leads the user to a new page. It does not prompt the user that they are being re-directed to a new page. 
 
-> *Recommendation: 
+> *Recommendation: Let the user know when you take them from your site to another. 
 #### 4. Consistency and Standards
 * 
 
