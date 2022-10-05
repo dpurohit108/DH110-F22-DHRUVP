@@ -47,33 +47,43 @@ Ratings are displayed in parentheses after each usability issue.
 #### 1. Visibility of System Status
 * 
 
+> *Recommendation: 
 #### 2. Match Between System and the Real World
 * 
 
+> *Recommendation: 
 #### 3. User Control and Freedom
 * 
 
+> *Recommendation: 
 #### 4. Consistency and Standards
 * 
 
+> *Recommendation: 
 #### 5. Error Prevention
 * 
 
+> *Recommendation: 
 #### 6. Recognition Rather Than Recall
 * 
 
+> *Recommendation: 
 #### 7. Flexibility and Efficiency of Use
 * 
 
+> *Recommendation: 
 #### 8. Aesthetic and Minimalist Design
 * 
 
+> *Recommendation: 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 * 
 
+> *Recommendation: 
 #### 10. Help and Documentation
 * 
 
+> *Recommendation: 
 ### Overall Assessment
 
 
@@ -92,28 +102,37 @@ Ratings are displayed in parentheses after each usability issue.
 #### 2. Match Between System and the Real World
 * 
 
+> *Recommendation: 
 #### 3. User Control and Freedom
 * 
 
+> *Recommendation: 
 #### 4. Consistency and Standards
 * 
 
+> *Recommendation: 
 #### 5. Error Prevention
 * 
 
+> *Recommendation: 
 #### 6. Recognition Rather Than Recall
 * 
 
+> *Recommendation: 
 #### 7. Flexibility and Efficiency of Use
 * 
 
+> *Recommendation: 
 #### 8. Aesthetic and Minimalist Design
 * 
 
+> *Recommendation: 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 * 
 
+> *Recommendation: 
 #### 10. Help and Documentation
 * 
 
+> *Recommendation: 
 ### Overall Assessment
