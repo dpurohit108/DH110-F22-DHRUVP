@@ -39,7 +39,7 @@ Ratings are displayed in parentheses after each usability issue.
 ## Website 1: [UN Environment Programme](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-15)
 
 ### About the Website & Initial Evaluation
-[UN Environment Programme](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-15) is ...
+[UN Environment Programme](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-15) is a site that enables users to discover more about UN environmental programs. It has many pages on the goals outlined by the UN, and resources for people.  At initial glance, the website seems functional and informative. Read on to see the issues users may experience with this site.
 
 ### Heuristic Evaluation
 
@@ -55,41 +55,45 @@ Ratings are displayed in parentheses after each usability issue.
 #### 2. Match Between System and the Real World
 * The majority of the website speaks well to the user and is not confusing/difficult to understand. One element that stands out to me is the colorful wheel in the top right corner. The user does not know about the function of this button until after they have clicked it. This leads to error issues and potentially confusing the user. There are descriptions on each page which provide context to the goal, however, the visuals are difficult to understand. (3) 
 
+<p align="center">
+  <img src="web13.png" alt="Color Ball" width = "500px"/>
+</p>
+
 > *Recommendation: Provide a written meaning of this colorful button and improve visuals. 
 #### 3. User Control and Freedom
-* 
+* The user has a lot of freedom on the site. Should users make a mistake, they will have to utilize the back arrows on their browser. (N/A)
 
-> *Recommendation: 
+> *Recommendation: None
 #### 4. Consistency and Standards
 * The design on individual pages does not match that of the home page. The home page appears organized and structured, however, certain individual pages are disorganized and are not aesthetically pleasing. Additionally, there is not total consistency among all the menu items on the top bar. (3)
 
 > *Recommendation: Make all the pages consistent, and not like they are appearing out of nowhere. Ensure that the top bar is consistent in terms of design and where users are being directed. 
 #### 5. Error Prevention
-* 
+* When going through the site, there did not appear to be areas where users were warned about potential mistakes that they may make. I experienced continued issues with the search window not working. Issues like this are problematic. (2)
 
-> *Recommendation: 
+> *Recommendation: Ensure that all buttons and links function properly, as not not confuse users about each button's purpose. 
 #### 6. Recognition Rather Than Recall
-* 
+* The layout of the website is decent, however it requires users to really know where things are. If a user wants to get to a certain page, they will be forced to remember how to get there as the website pages are slightly complex. (2)
 
-> *Recommendation: 
+> *Recommendation: Make navigating the website through menus easier and more functional. 
 #### 7. Flexibility and Efficiency of Use
-* 
+* Overall, the website is not efficient. The non-functional and non-descriptive parts of the website are not user friendly. Additionally, it appears that there are two menu bars. This makes it appear that information and user interactions with the website are being put into different parts. This makes navigating pages more difficult. (3)
 
-> *Recommendation: 
+> *Recommendation: Improve the menu bars and where users go when they want to access items on the webpage. Make the location of items more clear to the user. 
 #### 8. Aesthetic and Minimalist Design
 * Overall, the design is poor. Overall, interacting with the website as the whole is dry and not user friendly and interactive. (3)
 
 > *Recommendation: Create a more consistent aesthetic design across all pages. 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* 
+* There are no apparent areas where the users will be stopped because of an error on the user end. The contact us page does not have direct inputs for an email message, but rather directs the user to copy contact info from the site for their own use. However, at the bottom of the page, upon clicking the button "Subscribe for Our Newsletter," it appears that no fields are marked with an asterisk and/or actually required. This could result in a faulty system and mislead the user. (3) 
 
-> *Recommendation: 
+> *Recommendation: Ensuring (1) that there are sufficient user input areas and (2) that each user input area clearly identifies what fields are required for successful processing. 
 #### 10. Help and Documentation
 * The search bar is non-functional. Additionally, there are no other guides to help users interact with the webpages. (3)
 
 > *Recommendation: Make the search bar functional and ensure that users can engage with the pages in a way that is guided by elements on the page. 
 ### Overall Assessment
-
+While the website appears great at first look, breaking it down reveals that there are many issues and that the site is far from user friendly. However, the overall organization is extremely poor. As a user, it would be frustrating to navigate this site from the start, and it needs many improvements, Besides improving the aesthetics, the functionality of menu bars and where information is located needs to be improved. Additionally, the pages should be more interactive and easier to understand. 
 
 ## Website 2: [SDG Tracker](https://sdg-tracker.org/biodiversity)
 
@@ -112,7 +116,7 @@ Ratings are displayed in parentheses after each usability issue.
 
 > *Recommendation: None!
 #### 3. User Control and Freedom
-* Clicking the tab "Our World in Data" at the top bar leads the user to a new page. It does not prompt the user that they are being re-directed to a new page. 
+* Clicking the tab "Our World in Data" at the top bar leads the user to a new page. It does not prompt the user that they are being re-directed to a new page. (2)
 
 > *Recommendation: Let the user know when you take them from your site to another. 
 #### 4. Consistency and Standards
@@ -146,3 +150,6 @@ Ratings are displayed in parentheses after each usability issue.
 ### Overall Assessment
 
 This site has a very simple and basic design that serves the purpose of displaying information, but makes interactions with the user difficult. While it has valuable data, there is not much of a story behind everything that is going on and being presented. What is written is not visually appealing to read and interact with. Utilizing data from other sites and areas would improve the site as well. 
+
+
+Note: Portion of set up/structure code used from Emily Dong's previous project site. 
