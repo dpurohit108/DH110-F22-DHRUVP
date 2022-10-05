@@ -45,9 +45,9 @@ Ratings are displayed in parentheses after each usability issue.
 
 
 #### 1. Visibility of System Status
-* 
+* The site does a fairly good job of making elements visible. The tabs at the top of the page make it clear where sub-pages are located and what topics are located under each sub-category. However, upon clicking one of those tabs (specifically the "What We Do" tab) it is not clear how the elements on the right side relate to the three categories on the left (climate action, nature action, and chemical and pollution actions). (2) 
 
-> *Recommendation: 
+> *Recommendation: Get the search bar to work and respond timely to users. Addiitonally, re-design thhe breakdown of what is listed under each tab at the top of the home page. 
 #### 2. Match Between System and the Real World
 * 
 
