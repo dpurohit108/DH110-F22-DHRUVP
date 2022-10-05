@@ -102,7 +102,7 @@ Ratings are displayed in parentheses after each usability issue.
 #### 2. Match Between System and the Real World
 * At the top of the webpage, there is a short description/intro into what the goal is briefly about. However, it lacks sufficient back story on the purpose of all the data it's presenting. This applies to each goal listed on the home page. The words and data need a better and more robust backstory and description. (2)
 
-> *Recommendation: 
+> *Recommendation: None!
 #### 3. User Control and Freedom
 * Clicking the tab "Our World in Data" at the top bar leads the user to a new page. It does not prompt the user that they are being re-directed to a new page. 
 
@@ -130,6 +130,7 @@ Ratings are displayed in parentheses after each usability issue.
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 * Once a user has clicked anywhere on the site (including the links that lead to the site "Our World in Data"), it is not possible to go back, other than clicking the back arrow on the browser. Beyond this issues, there are not many errors that the user can make. (2)
 
+> *Recommendation: None!
 #### 10. Help and Documentation
 * The website does not provide the user with any help or steps to navigate the web pages. The user has no search option, leaving to only manually discover each page. This is not efficient. (2)
 
