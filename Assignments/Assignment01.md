@@ -48,7 +48,7 @@ Ratings are displayed in parentheses after each usability issue.
 * The site does a fairly good job of making elements visible. The tabs at the top of the page make it clear where sub-pages are located and what topics are located under each sub-category. However, upon clicking one of those tabs (specifically the "What We Do" tab) it is not clear how the elements on the right side relate to the three categories on the left (climate action, nature action, and chemical and pollution actions). (2) 
 
 <p align="center">
-  <img src="web11.png" alt="Webpage Landing" width = "500px"/>
+  <img src="web14.png" alt="Webpage Landing" width = "500px"/>
 </p>
 
 > *Recommendation: Get the search bar to work and respond timely to users. Addiitonally, re-design thhe breakdown of what is listed under each tab at the top of the home page. 
@@ -67,6 +67,10 @@ Ratings are displayed in parentheses after each usability issue.
 #### 4. Consistency and Standards
 * The design on individual pages does not match that of the home page. The home page appears organized and structured, however, certain individual pages are disorganized and are not aesthetically pleasing. Additionally, there is not total consistency among all the menu items on the top bar. (3)
 
+<p align="center">
+  <img src="web11.png" alt="Page" width = "500px"/>
+</p>
+
 > *Recommendation: Make all the pages consistent, and not like they are appearing out of nowhere. Ensure that the top bar is consistent in terms of design and where users are being directed. 
 #### 5. Error Prevention
 * When going through the site, there did not appear to be areas where users were warned about potential mistakes that they may make. I experienced continued issues with the search window not working. Issues like this are problematic. (2)
@@ -79,9 +83,17 @@ Ratings are displayed in parentheses after each usability issue.
 #### 7. Flexibility and Efficiency of Use
 * Overall, the website is not efficient. The non-functional and non-descriptive parts of the website are not user friendly. Additionally, it appears that there are two menu bars. This makes it appear that information and user interactions with the website are being put into different parts. This makes navigating pages more difficult. (3)
 
+<p align="center">
+  <img src="web15.png" alt="Menu" width = "500px"/>
+</p>
+
 > *Recommendation: Improve the menu bars and where users go when they want to access items on the webpage. Make the location of items more clear to the user. 
 #### 8. Aesthetic and Minimalist Design
 * Overall, the design is poor. Overall, interacting with the website as the whole is dry and not user friendly and interactive. (3)
+
+<p align="center">
+  <img src="web12.png" alt="Menu2" width = "500px"/>
+</p>
 
 > *Recommendation: Create a more consistent aesthetic design across all pages. 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
