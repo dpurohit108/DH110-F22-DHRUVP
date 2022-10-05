@@ -27,7 +27,7 @@ The United Nations (UN) has a list of 17 Sustainable Development Goals, one of w
 
 ### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Problems by Nielsen Norman Group
 
-The following rating scale can be used to evaluate the severity of usability issues:
+The following rating scale is being used to evaluate the severity of usability issues:
 | Rating | Description |
 |---|---|
 | 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |
