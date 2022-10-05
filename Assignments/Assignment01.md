@@ -119,12 +119,16 @@ While the website appears great at first look, breaking it down reveals that the
 * The site is more or less endless. The site is designed such that as you keep scrolling, you just keep seeing more short descriptions paired with data charts. With this continuous scroll, you have the potential to lose your reader's interest. The site doesn't contain many other pages, except a similar such data page for each goal. Therefore, this issue applies to all the individual goals' pages. (3)
 
 <p align="center">
-  <img src="web21.png" alt="Webpage Landing" width = "500px"/>
+  <img src="web22.png" alt="Webpage Landing" width = "500px"/>
 </p>
 
 > *Recommendation: Display a progress bar or even better, have different tabs for the various targets that are listed above each data point. 
 #### 2. Match Between System and the Real World
 * At the top of the webpage, there is a short description/intro into what the goal is briefly about. However, it lacks sufficient back story on the purpose of all the data it's presenting. This applies to each goal listed on the home page. The words and data need a better and more robust backstory and description. (2)
+
+<p align="center">
+  <img src="web21.png" alt="Web1" width = "500px"/>
+</p>
 
 > *Recommendation: None!
 #### 3. User Control and Freedom
@@ -134,6 +138,10 @@ While the website appears great at first look, breaking it down reveals that the
 #### 4. Consistency and Standards
 * The website is consistent in all of its pages. It follows the consistent trend of a brief description followed by listing all the targets and respective  data charts. Each page experiences the same issues outlined above. Overall, there are no consistency standards or surprises to the user. The overall design of the pages could be greatly improved. (1) 
 
+<p align="center">
+  <img src="web25.png" alt="Web2" width = "500px"/>
+</p>
+
 > *Recommendation: While the display is consistant, the design lacks being able to provide the user with an easy way to interact with the data. 
 #### 5. Error Prevention
 * There is no search bar, and since the website is not used beyond displaying information, there aren't too many errors that the user can make. However, when observing the data, if they click the "Our World in Data" logo, a new tab will open with a link to that website. This may surprise users, and there is no notice letting them know this. When clicking on other parts of the data on the maps, there are no issues that would lead to errors for the user. (2)
@@ -141,6 +149,10 @@ While the website appears great at first look, breaking it down reveals that the
 > *Recommendation: Oevrall, deisgn is good as it pertains to error prevention. However, letting the user know a new tab is opening may be helpful. 
 #### 6. Recognition Rather Than Recall
 * The top of the page, there is a hyperlinked tab that takes the user back to the home page. However, this is not clear. The user must either know or experiment with this to see where clicking "Sustainable Development Goals'' will take them. It would be much better for the user to have more tabs at the top of the site, rather than embedded within the actual page. (3)
+
+<p align="center">
+  <img src="web24.png" alt="Webpage Landing" width = "500px"/>
+</p>
 
 > *Recommendation: Create a more robust top bar, with additional tabs so the user can be more informed about where they are navigating to. 
 #### 7. Flexibility and Efficiency of Use
