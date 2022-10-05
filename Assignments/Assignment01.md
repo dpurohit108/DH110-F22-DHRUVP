@@ -104,21 +104,21 @@ Ratings are displayed in parentheses after each usability issue.
 
 > *Recommendation: 
 #### 3. User Control and Freedom
-* CLicking the tab "Our World in Data" at the top bar leads the user to a new page. It does not prompt the user that they are being re-directed to a new page. 
+* Clicking the tab "Our World in Data" at the top bar leads the user to a new page. It does not prompt the user that they are being re-directed to a new page. 
 
 > *Recommendation: Let the user know when you take them from your site to another. 
 #### 4. Consistency and Standards
-* 
+* The website is consistent in all of its pages. It follows the consistent trend of a brief description followed by listing all the targets and respective  data charts. Each page experiences the same issues outlined above. Overalll, there are no consistency standards or surprises to the user. The overall design of the pages could be greatly improved. (1) 
 
-> *Recommendation: 
+> *Recommendation: While the display is consistant, the design lacks being able to provide the user with an easy way to interact with the data. 
 #### 5. Error Prevention
-* 
+* There is no search bar, and since the website is not used beyond displaying information, there aren't too many errors that the user can make, However, when obersving the data, if they click the "Our World in Data" logo, a new tab will open with a link to that website. This may surprise users, and there is no notice letting thme know this. When cliking on other parts of the data on the maps, there are no issues that would lead to errors for the user. (2)
 
-> *Recommendation: 
+> *Recommendation: Oevrall, deisgn is good as it pertains to error prevention. However, letting the user know a new tab is opening may be helpful. 
 #### 6. Recognition Rather Than Recall
-* 
+* The top of the page, there is a hyperlinked tab that takes the user back to the home page. However, this is not clear. The user must either know or experiment with this to see where clicking "Sustainable Development Goals" will take them. It would be much better for the user to have more tabs at the top of the site, rather embedded withing the actual page. (3)
 
-> *Recommendation: 
+> *Recommendation: Create a more robust top bar, with additional tabs so the user can be more informed about where they are navigating to. 
 #### 7. Flexibility and Efficiency of Use
 * 
 
