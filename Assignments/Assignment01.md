@@ -1,4 +1,4 @@
-# Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+# Protecting & Promoting Sustainable Use of Ecosystems, Forests, Compating Desertification, Halting/Reversing Land Degradation, and Halting Biodiversity Loss
 
 ## Assignment 1: Heuristic Evaluation
 
