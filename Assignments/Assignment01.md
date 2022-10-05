@@ -39,7 +39,7 @@ Ratings are displayed in parentheses after each usability issue.
 ## Website 1: [UN Environment Programme](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-15)
 
 ### About the Website & Initial Evaluation
-[UN Environment Programme](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-15) is a site that enables users to discover more about UN environmental programs. It has many pages on the goals outlined by the UN, and resources for people.  At initial glance, the website seems functional and informative. Read on to see the issues users may experience with this site.
+[UN Environment Programme](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-15) is a site that enables users to discover more about UN environmental programs. It has many pages on the goals outlined by the UN, and resources for people.  At initial glance, the website seems functional and informative. It appears to have a good user interface, however, certain pages appear disorganized and difficult to read and understand. Read on to see the issues users may experience with this site.
 
 ### Heuristic Evaluation
 
@@ -110,7 +110,7 @@ While the website appears great at first look, breaking it down reveals that the
 ## Website 2: [SDG Tracker](https://sdg-tracker.org/biodiversity)
 
 ### About the Website & Initial Evaluation
-[SDG Tracker](https://sdg-tracker.org/biodiversity) is a website that uses data visualizations to show progress towards the goals outlined by the UN. The site does not give too much information, however, it contains so much data from the site "Our World in Data." Read on to see the issues users may experience with this site.
+[SDG Tracker](https://sdg-tracker.org/biodiversity) is a website that uses data visualizations to show progress towards the goals outlined by the UN. The site does not give too much information, however, it contains so much data from the site "Our World in Data." On initial glance, the website looked rather boring, and the constant scroll to see graphs was frustrating. I also didn't see much text information that helped me better unserdatnd the purpose of everything that was bring displayed. Read on to see the issues users may experience with this site.
 
 ### Heuristic Evaluation
 
