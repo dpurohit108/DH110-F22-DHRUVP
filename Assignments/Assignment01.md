@@ -47,19 +47,23 @@ Ratings are displayed in parentheses after each usability issue.
 #### 1. Visibility of System Status
 * The site does a fairly good job of making elements visible. The tabs at the top of the page make it clear where sub-pages are located and what topics are located under each sub-category. However, upon clicking one of those tabs (specifically the "What We Do" tab) it is not clear how the elements on the right side relate to the three categories on the left (climate action, nature action, and chemical and pollution actions). (2) 
 
+<p align="center">
+  <img src="web11.png" alt="Webpage Landing" width = "500px"/>
+</p>
+
 > *Recommendation: Get the search bar to work and respond timely to users. Addiitonally, re-design thhe breakdown of what is listed under each tab at the top of the home page. 
 #### 2. Match Between System and the Real World
-* 
+* The majority of the website speaks well to the user and is not confusing/difficult to understand. One element that stands out to me is the colorful wheel in the top right corner. The user does not know about the function of this button until after they have clicked it. This leads to error issues and potentially confusing the user. There are descriptions on each page which provide context to the goal, however, the visuals are difficult to understand. (3) 
 
-> *Recommendation: 
+> *Recommendation: Provide a written meaning of this colorful button and improve visuals. 
 #### 3. User Control and Freedom
 * 
 
 > *Recommendation: 
 #### 4. Consistency and Standards
-* 
+* The design on individual pages does not match that of the home page. The home page appears organized and structured, however, certain individual pages are disorganized and are not aesthetically pleasing. Additionally, there is not total consistency among all the menu items on the top bar. (3)
 
-> *Recommendation: 
+> *Recommendation: Make all the pages consistent, and not like they are appearing out of nowhere. Ensure that the top bar is consistent in terms of design and where users are being directed. 
 #### 5. Error Prevention
 * 
 
@@ -73,17 +77,17 @@ Ratings are displayed in parentheses after each usability issue.
 
 > *Recommendation: 
 #### 8. Aesthetic and Minimalist Design
-* 
+* Overall, the design is poor. Overall, interacting with the website as the whole is dry and not user friendly and interactive. (3)
 
-> *Recommendation: 
+> *Recommendation: Create a more consistent aesthetic design across all pages. 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 * 
 
 > *Recommendation: 
 #### 10. Help and Documentation
-* 
+* The search bar is non-functional. Additionally, there are no other guides to help users interact with the webpages. (3)
 
-> *Recommendation: 
+> *Recommendation: Make the search bar functional and ensure that users can engage with the pages in a way that is guided by elements on the page. 
 ### Overall Assessment
 
 
