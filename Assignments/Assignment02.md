@@ -49,7 +49,7 @@ The UT questionnaire (linked below) includes and focuses on the following materi
 * Demographic questions
 
 ### Questionnaire Link
-A Link to the questionnaire can be found [here](https://forms.gle/aDQhmGhYESiUeESB6).
+A link to the questionnaire can be found [here](https://forms.gle/aDQhmGhYESiUeESB6).
 
 * Note: The questionnaire includes parts of the moderator script in addition to the full participant survey.
 
