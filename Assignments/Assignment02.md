@@ -26,6 +26,6 @@ The UT questionnaire (linked below) includes and focuses on the following materi
 Link to the questionnaire. The questionnaire includes the moderator script and participant survey [here](https://forms.gle/aDQhmGhYESiUeESB6).
 
 ### Video Link
-Link to the pilot UT [here](https://drive.google.com/file/d/1dfnHqNFKok4-q8qwTUhrwRXK_Hm6ufWo/view?usp=sharing).
+Link to the pilot UT [here](https://youtu.be/8J-7qhC3U3M).
 
 ## Reflection & Findings
