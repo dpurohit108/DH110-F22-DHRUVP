@@ -57,3 +57,7 @@ A Link to the questionnaire can be found [here](https://forms.gle/aDQhmGhYESiUeE
 A link to the pilot UT can be found [here](https://youtu.be/8J-7qhC3U3M).
 
 ## Reflection & Findings
+
+Overall, the results from this pilot test were in line with the issues I addressed in the heuristic evaluation. The test went quite smoothly, and the user was able to navigate through the website to attempt to complete all the tasks. While the user was successful at completing 9 of the 11 subtasks, the user pointed out that the most likely task they would complete was the most difficult and time consuming. In the System Usability Scale questions, the user noted that the website functions were not well integrated, that the site lacked consistency, and that the site was cumbersome to use as a whole. In analyzing the results (both in the form of the video/facial expressions/sounds of the voice and the questionnaire results), I can definitely say that the user was frustrated and somewhat lost on numerous occasions throughout the testing process. The user also pointed out the lack of existence/functionality of a search bar, therefore making it more difficult to search for specific items quickly. The user's actions to attempt to complete the tasks also highlighted the issues with the design and placement of the menu/top bar. This UT process also highlighted some additional issues that I didn't emphasize in my heuristic evaluation. 
+
+In terms of improvements that I would like to make
