@@ -39,7 +39,7 @@ The activities completed by the user can be viewed in the contextual inquiry gui
 
 ### Inquiry Data & Materials
 * [Audio and Live Transcript of Interview](https://otter.ai/u/aQG3mYb4LGc0YGww5LUdvX6DMto)
-* [Transcript of Interview Only](https://docs.google.com/document/d/1pvMEFMXPk14b4ZPewLB4gMEG761O3jPGm6tfoEgZTPU/edit?usp=sharing)
+* [Transcript of Interview](https://docs.google.com/document/d/1pvMEFMXPk14b4ZPewLB4gMEG761O3jPGm6tfoEgZTPU/edit?usp=sharing)
 * [Field Notes](https://docs.google.com/document/d/18ZU6pHUanSxlVs3BWZ0hgp5_mV55YhYwhWyC_Xa9kd0/edit?usp=sharing)
 
 ## Reflections
