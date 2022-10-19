@@ -43,13 +43,14 @@ The activities completed by the user can be viewed in the contextual inquiry gui
 * [Field Notes](https://docs.google.com/document/d/18ZU6pHUanSxlVs3BWZ0hgp5_mV55YhYwhWyC_Xa9kd0/edit?usp=sharing)
 
 ## Reflections
-:bulb:
-
-:bulb:
-
-:bulb:
 
 ### Key Insights from the Interview & Data
+
+:bulb:
+
+:bulb:
+
+:bulb:
 
 ### Personal Reflections & Lessons Learned
 Given the issues that have arisen through previous analysis, I was already starting to see what areas of the site needed re-design and improvements. 
