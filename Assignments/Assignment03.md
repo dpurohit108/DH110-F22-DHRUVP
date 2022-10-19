@@ -33,7 +33,7 @@ The interview process included the following steps:
 2. Observations During Activities: Used to observe the user in their natural web search setting and to document findings. 
 3. Follow-up and Closing Questions: Ask the user about how they felt after the activities and get final thoughts.
 
-### Materials
+### Interview Materials
 The activities completed by the user can be viewed in the contextual inquiry guide. 
 * [Contextual Inquiry Guide](https://docs.google.com/document/d/1_hTVyhpJece9Vag8-CkiOGD3xA3O7QO6d4-hGxfVV98/edit?usp=sharing)
 
