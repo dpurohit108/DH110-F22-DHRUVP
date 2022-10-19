@@ -23,7 +23,7 @@ In order to complete the activity, the users would simply need to be knowledgeab
 
 ## Research Methods
 
-As a means to gain more insight into how to improve the redesign of the website, I conducted a contextual inquiry. This allowed me to learn more about how users interacted with the topic and activities, and how their actions can be used to improve the UN site. The research methods involved in this process include active and participatory interactions. For my inquiry, the focused participation of the user is critical. Additionally, adding active interactions is likely to increase the amount of observable data throughout the activities. The interview would be conducted in-person, and an audio recording (accompanied by a transcription) would be recorded through otter.ai. 
+As a means to gain more insight into how to improve the redesign of the website, I conducted a contextual inquiry. This allowed me to learn more about how users interacted with the topic and activities, and how their actions can be used to improve the UN site. The research methods involved in this process include active and participatory interactions. For my inquiry, the focused participation of the user is critical. Additionally, adding active interactions is likely to increase the amount of observable data throughout the activities. The interview would be conducted in-person, and an audio recording (accompanied by a transcription) would be recorded through [otter.ai](otter.ai). 
 
 ### Inquiry Process & User Activities
 
