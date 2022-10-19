@@ -46,11 +46,13 @@ The activities completed by the user can be viewed in the contextual inquiry gui
 
 ### Key Insights from the Interview & Data
 
-:bulb:
+:bulb: "I usually just rely on information shared through my workplace or other notifications other than that I don't really search for information." (6:16)
 
-:bulb:
+:bulb: "I think some look like they're just a whole bunch of information overload and they're not as inviting to read others are organized in a way that just makes it easier to digest this information." (11:56)
 
-:bulb:
+:bulb: "What stands out is they include pictures that's a font size that's easy to read and and they are sort of bite size, digestible pieces of information. So just easily digestible." (12:31)
+
+:bulb: "What stood out to me is how easily and quickly you can find out whether a company has sustainable practices or not." (20:34)
 
 ### Personal Reflections & Lessons Learned
 Given the issues that have arisen through previous analysis, I was already starting to see what areas of the site needed re-design and improvements. 
