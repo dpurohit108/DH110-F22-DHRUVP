@@ -10,7 +10,9 @@ Through previous research and assignments, user issues were pointed out on the [
 1. A functional and existant search bar.
 2. Consolidated top menu bar that is well organized and easy to navigate.
 3. Clear identification of the tab to find information on the sustainable development goals.
-4. Improved newsletter sign up that does not generate errors or take information that is not satisfactory.
+4. Clear identification & list of the goals, with the user being able to quickly click on one to gain more information/detail. 
+5. Improved newsletter sign up that does not generate errors or take information that is not satisfactory.
+6. A page that provides the user with simple and meaningful reccomendations on changes they can make in their day to day life to have a positive impact towards achieving the sustainable goals. 
 
 Additionally, fonts and headers needs to be made conistent (font, font size, placement) across various informational pages. The website should demonstrate consistency and 
 
