@@ -18,15 +18,30 @@ Additionally, fonts and headers needs to be made conistent (font, font size, pla
 
 ## User Personas
 
+<p align="center">
+  <img src="1.png" alt="Kasey User Persona"/>
+  <img src="4.png" alt="Kennedy User Persona"/>
+</p>
+
 ## Empathy Maps
+
+<p align="center">
+  <img src="2.png" alt="Kasey Empathy Map"/>
+  <img src="5.png" alt="Kennedy Empathy Map"/>
+</p>
 
 ## User Scenarios and Journey Maps
 
 ### Kasey's Scenario & Journey Map (Design Features 1, 5, & 6)
 
 
-
-
+<p align="center">
+  <img src="3.png" alt="Kasey Journey"/>
+</p>
 
 ### Kennedy's Scenario & Journey Map (Design Features 2, 3, & 4)
 
+
+<p align="center">
+  <img src="6.png" alt="Kennedy Journey"/>
+</p>
