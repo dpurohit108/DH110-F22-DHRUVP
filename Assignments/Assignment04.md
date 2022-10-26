@@ -13,7 +13,7 @@ Through previous research and assignments, user issues were pointed out on the [
 4. Improved newsletter sign up that does not generate errors or take information that is not satisfactory. Additionally, providing information about what the newsletter will provide the user with and how often they will receive it. 
 5. A page that provides the user with simple and meaningful recommendations on changes they can make in their day to day life to have a positive impact towards achieving the sustainable goals. 
 
-Additionally, fonts and headers needs to be made conistent (font, font size, placement) across various informational pages. The website should demonstrate consistency and 
+Additionally, fonts and headers needs to be made conistent (font, font size, placement) across various informational pages. The website should demonstrate consistency. 
 
 ## User Personas
 
