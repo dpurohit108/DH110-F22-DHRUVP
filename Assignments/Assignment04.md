@@ -9,9 +9,9 @@ The purpose of storytelling in the UX design process is to gain a better underst
 Through previous research and assignments, user issues were pointed out on the [UN Environment Programme](https://www.unep.org/) website. The following features are important for the design solution:
 1. A functional and existant search bar.
 2. Consolidated top menu bar that is well organized and easy to navigate.
-3. Clear identification of the tab to find information on the sustainable development goals.
-4. Clear identification & list of the goals, with the user being able to quickly click on one to gain more information/detail. 
-5. Improved newsletter sign up that does not generate errors or take information that is not satisfactory.
+3. Clear identification of the tab to find information on the sustainable development goals (identifiable using words). 
+4. Clear identification and list of the goals, with the user being able to quickly click on one of the colorful boxes to gain more information/detail on a specific goal. 
+5. Improved newsletter sign up that does not generate errors or take information that is not satisfactory. Additionally, providing information about what the newsletter will provide the user with and how often they will recieve it. 
 6. A page that provides the user with simple and meaningful reccomendations on changes they can make in their day to day life to have a positive impact towards achieving the sustainable goals. 
 
 Additionally, fonts and headers needs to be made conistent (font, font size, placement) across various informational pages. The website should demonstrate consistency and 
