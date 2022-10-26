@@ -9,3 +9,12 @@ Dhruv Purohit | DH110 | Fall 2022
 ## Empathy Maps
 
 ## User Scenarios and Journey Maps
+
+### Kasey's Scenario & Journey Map
+
+
+
+
+
+### Kennedy's Scenario & Journey Map
+
