@@ -22,11 +22,11 @@ Additionally, fonts and headers needs to be made conistent (font, font size, pla
 
 ## User Scenarios and Journey Maps
 
-### Kasey's Scenario & Journey Map
+### Kasey's Scenario & Journey Map (Design Features 1, 5, & 6)
 
 
 
 
 
-### Kennedy's Scenario & Journey Map
+### Kennedy's Scenario & Journey Map (Design Features 2, 3, & 4)
 
