@@ -12,7 +12,7 @@ The purpose of low-fidelity prototyping is to test proposed features and changes
 My low fidelity prototype supports the following tasks: 
 
 ### Wireframes and Wireflow
-imsert images/link to wireframes & flow, minimum 3 screens
+add images to wireframes & flow
 
 A link to the original wireframes and flow used for the test is linked [here](https://drive.google.com/file/d/1-sVjBUB7t0LdEpBJ19MOJOiVNGyOJX5w/view?usp=sharing).
 
@@ -32,6 +32,8 @@ A link to the original wireframes and flow used for the test is linked [here](ht
 A link to the wireframes and flow marked up by the user during the test is linked [here](https://drive.google.com/file/d/13IMag3i6l7X_jxVeZ39IRzsCy2On1VnU/view?usp=sharing).
 
 ### Insights, Changes, & Reflections
+Paragraph reflection here.
+
 :bulb: 
 
 :bulb: 
