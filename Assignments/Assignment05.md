@@ -18,15 +18,15 @@ A link to the original wireframes and flow used for the test is linked [here](ht
 
 ### User Testing
 <p align="center">
-  <img src="test1.HEIC" alt="User test 1" width="300px"/>
-  <img src="test2.HEIC" alt="User test 2" width="300px"/>
-  <img src="test3.HEIC" alt="User test 3" width="300px"/>
+  <img src="test1.jpg" alt="User test 1" width="300px"/>
+  <img src="test2.jpg" alt="User test 2" width="300px"/>
+  <img src="test3.jpg" alt="User test 3" width="300px"/>
 </p>
 
 <p align="center">
-  <img src="test4.HEIC" alt="User test 4" width="300px"/>
-  <img src="test5.HEIC" alt="User test 5" width="300px"/>
-  <img src="test6.HEIC" alt="User test 6" width="300px"/>
+  <img src="test4.jpg" alt="User test 4" width="300px"/>
+  <img src="test5.jpg" alt="User test 5" width="300px"/>
+  <img src="test6.jpg" alt="User test 6" width="300px"/>
 </p>
 
 A link to the wireframes and flow marked up by the user during the test is linked [here](https://drive.google.com/file/d/13IMag3i6l7X_jxVeZ39IRzsCy2On1VnU/view?usp=sharing).
