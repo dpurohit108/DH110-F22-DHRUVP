@@ -21,8 +21,8 @@ The designs were drawn out on my iPad using the notability app. As this is an in
 My low fidelity prototype supports the following tasks (most of which are outlined in greater detail above): 
 1. Being able to quickly locate and find information on the sustainable development goals
 2. Having easy access to details on every goal once on the main page for the sustainable goals
-3. Having a good pop-up and dedicated space for users to sign up for a newsletter
-4. Allowing the user to easily find practical tips on how to make more sustainable decisions on a day-to-day basis
+3. Allowing the user to easily find practical tips on how to make more sustainable decisions on a day-to-day basis
+4. Having a good pop-up and dedicated space for users to sign up for a newsletter
 
 The improved design also features:
 1. A new menu/navigation bar that better tells the user where they can find important information
@@ -37,6 +37,8 @@ A link to the original wireframes and wireflow used for the test is linked [here
   <img src="flow1.png" alt="Wireframe & flow" width="500px"/>
   <img src="flow2.png" alt="Wireframe & flow" width="500px"/>
 </p>
+
+**Note** The first/left page of the wireframes highlights tasks 1 & 2 as and the second/right page highlights tasks 3 & 4 listed under tasks supported by the prototype
 
 ## User Testing
 <p align="center">
