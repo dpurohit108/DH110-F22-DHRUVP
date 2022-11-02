@@ -13,8 +13,8 @@ My low fidelity prototype supports the following tasks:
 
 ### Wireframes and Wireflow
 <p align="center">
-  <img src="flow1.png" alt="Wireframe & flow" width="300px"/>
-  <img src="flow2.png" alt="Wireframe & flow" width="300px"/>
+  <img src="flow1.png" alt="Wireframe & flow"/>
+  <img src="flow2.png" alt="Wireframe & flow"/>
 </p>
 
 A link to the original wireframes and flow used for the test is linked [here](https://drive.google.com/file/d/1-sVjBUB7t0LdEpBJ19MOJOiVNGyOJX5w/view?usp=sharing).
