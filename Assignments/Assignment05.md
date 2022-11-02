@@ -38,7 +38,7 @@ A link to the original wireframes and wireflow used for the test is linked [here
   <img src="flow2.png" alt="Wireframe & flow" width="500px"/>
 </p>
 
-**Note:** The first/left page of the wireframes highlights tasks 3 & 4 as and the second/right page highlights tasks 1 & 2 listed under tasks supported by the prototype
+**Note:** The first/left page of the wireframes highlights tasks 3 & 4 as and the second/right page highlights tasks 1 & 2 listed under [tasks supported by the prototype.](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md#tasks-supported-by-the-prototype)
 
 ## User Testing
 <p align="center">
