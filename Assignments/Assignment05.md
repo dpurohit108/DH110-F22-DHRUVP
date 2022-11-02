@@ -80,4 +80,4 @@ Given the insights brought up during this first round of testing, I decided to m
 3. Following clinking "join" on the newsletter page, providing the user with (1) confirmation that their registration was successful and (2) providing a button that says "return to previous page" so that the user can return to the page that they were reading/interacting with. 
 4. Ensuring that the pop-ups are bold enough and that the background is made quite transparent. 
 
-The most updated wireframes and flow can be viewed [here](). Revisions are included in
+The most updated wireframes and flow can be viewed [here](https://drive.google.com/file/d/1md260priQJqlqggeKWmV3ALyhA8StgBB/view?usp=sharing). Revisions are included in purple.
