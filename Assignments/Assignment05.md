@@ -56,7 +56,7 @@ A link to the original wireframes and wireflow used for the test is linked [here
 A link to the wireframes and wireflow marked up by the user during the test is linked [here](https://drive.google.com/file/d/13IMag3i6l7X_jxVeZ39IRzsCy2On1VnU/view?usp=sharing).
 
 ## Insights, Changes, & Reflections
-The user testing was once again a very effective way to see if the proposed changes work for users. Being able to see the initial changes on the wireflows was helpful and insightful as well. 
+The user testing was once again a very effective way to see if the proposed changes work for users. Being able to see the initial design changes on the wireflows was helpful and insightful as well. Overall, the user was able to successfully complete the tasks. There were some aspects that they highlighted that could have been made easier, which I will be incorporating into the next version of wireframes. The biggest insight from the user was to add more detail that indicates that the user should click in a certain spot. When designing the changes, it can be hard to think about what additional contect the user needs in order to be successful in compelting the task. However, after the test, it was clear that everything that can be clicked needs to have something that indicates to the user that they should click there. 
 
 :bulb: 
 
@@ -67,6 +67,10 @@ The user testing was once again a very effective way to see if the proposed chan
 :bulb: 
 
 ## Further Changes & Revisions
-Given the insights brought up during this first round of testing, I decided to make some modifications to the wireframes and overall flow. These changes included...
+Given the insights brought up during this first round of testing, I decided to make some modifications to the wireframes and overall flow. These changes include: 
+1. Adding additional "Click Here" or "Learn More" to more areas to aid the user in finding information.
+2. Enuring that there is an "X" (exit) button on all pop-ups. 
+3. Following clinking "join" on the newsletter page, providing the user with (1) confirmation that their registration was successful and (2) providing a button that says "return to previous page" so that the user can return to the page that they were reading/interacting with. 
+4. Ensuring that the pop-ups are bold enough and that the background is made quite transparent. 
 
 The most updated wireframes and flow can be viewed [here]().
