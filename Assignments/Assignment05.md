@@ -66,8 +66,6 @@ The user testing was once again a very effective way to see if the proposed chan
 
 :bulb: 
 
-:bulb: 
-
 ## Further Changes & Revisions
 Given the insights brought up during this first round of testing, I decided to make some modifications to the wireframes and overall flow. These changes included...
 
