@@ -56,15 +56,22 @@ A link to the original wireframes and wireflow used for the test is linked [here
 A link to the wireframes and wireflow marked up by the user during the test is linked [here](https://drive.google.com/file/d/13IMag3i6l7X_jxVeZ39IRzsCy2On1VnU/view?usp=sharing).
 
 ## Insights, Changes, & Reflections
-The user testing was once again a very effective way to see if the proposed changes work for users. Being able to see the initial design changes on the wireflows was helpful and insightful as well. Overall, the user was able to successfully complete the tasks. There were some aspects that they highlighted that could have been made easier, which I will be incorporating into the next version of wireframes. These additions/modifications are listed below and under [further changes & revisions.](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md#further-changes--revisions) The biggest insight from the user was to add more detail that indicates that the user should click in a certain spot. Additionally, the user wanted more context to certain clicks and confirmation after signing up for the newsletter. When designing the changes, it can be hard to think about what additional context the user needs in order to be successful in compelting the task. However, after the test, it was clear that everything that can be clicked needs to have something that indicates to the user that they should click there. Since the designer (me) is familiar with the website to a certain extent, I didn't think of every single option that the user may need, as
+The user testing was once again a very effective way to see if the proposed changes work for users. Being able to see the initial design changes on the wireflows was helpful and insightful as well. Overall, the user was able to successfully complete the tasks. There were some aspects that they highlighted that could have been made easier, which I will be incorporating into the next version of wireframes. These additions/modifications are listed below and under [further changes & revisions.](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md#further-changes--revisions) The biggest insight from the user was to add more detail that indicates that the user should click in a certain spot. Additionally, the user wanted more context to certain clicks and confirmation after signing up for the newsletter. When designing the changes, it can be hard to think about what additional context the user needs in order to be successful in completing the task. However, after the test, it was clear that everything that can be clicked needs to have something that indicates to the user that they should click there. Since the designer (me) is familiar with the website to a certain extent, I didn't think of every single option that the user may need. While I have my vision for the website, the user research and low-fidelity prototype indicates that the smallest details are most important to the user. When designing, these small details can often get overlooked or overshadowed by the larger design goal. I found the low-fidelity prototype process is very effective in giving me real insight into how the user may interact with my proposed design changes and how I can improve my design. While the theoretical scenarios are great for anticipating certain issues, this user research is the most helpful as it provides real-time data to the designer. In addition to the changes I have already suggested, the user research can give additional insight to other things that can be improved and re-designed. For next time, I would be sure to pay attention to some smaller details and even consider adding more complex tasks (this would be done for a larger design/redesign project). Having multiple (2+) tasks for my user to complete was very helpful, but naturally the more tasks there are, the more data will be collected. 
 
-:bulb: 
+:bulb: Ensuring that there is a "Click Here" or "Learn More" on every button or box that leads to something else. 
+* The user pointed this out a few times, both on the home page and other pages. The user was slighly unsure on a few occasions where they should click or not.
+* This is an easy fix and requires the proper placement of the words and a box around it, ideally
+* This clarifies for the user where they should and should not click
 
-:bulb: 
+:bulb: Provide feedback and confirmation after the user joins the newsletter.
+* The user was unsure what would happen after they clicked "join" to sign up for the newsletter. The user was unsure what to do afterwards
+* To solve this, it is necessary to add a confirmation page after the user clicks "join."
+* Additionally, the user commented that there was no option to go back to what they were reading. Therefore, it is also necessary to provide a button that allows the user to return to the page they were on before subscribing to the newsletter. 
 
-:bulb: 
-
-:bulb: 
+:bulb: Ensuring that there is option to close everything (everything!) that the user may click or open
+* The user came across a couple of instances where an "X" (exit) was missing. Despite aiming to ensure they were not forgotten, a couple were in a few not obvious places. 
+* The fix for this is to ensure that there is an option for the user to exit or go back on everything they may open. 
+* The user should never have to start from scratch on the home page, so ensuring that this option is there for every click is very important. 
 
 ## Further Changes & Revisions
 Given the insights brought up during this first round of testing, I decided to make some modifications to the wireframes and overall flow. These changes include: 
@@ -73,4 +80,4 @@ Given the insights brought up during this first round of testing, I decided to m
 3. Following clinking "join" on the newsletter page, providing the user with (1) confirmation that their registration was successful and (2) providing a button that says "return to previous page" so that the user can return to the page that they were reading/interacting with. 
 4. Ensuring that the pop-ups are bold enough and that the background is made quite transparent. 
 
-The most updated wireframes and flow can be viewed [here]().
+The most updated wireframes and flow can be viewed [here](). Revisions are included in
