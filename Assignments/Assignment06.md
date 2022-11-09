@@ -4,12 +4,18 @@ Dhruv Purohit | DH110 | Fall 2022
 
 ## Project Description
 
-The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible for the ideal and most common user. In doing so, the aim is to make it easier for the user to find relevant information on sustainability in a quick and efficient manner. Currently, the site is difficult to navigate and disorganized. Additionally, information on the UN’s Sustainable Development Goals is difficult to locate with a few clicks. Therefore, one of the main goals is to make it easy for the user to find information on these goals and what they are. The interface design process for this website includes the following process: 
+The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible for the ideal and most common user. In doing so, the aim is to make it easier for the user to find relevant information on sustainability in a quick and efficient manner. Currently, the site is difficult to navigate and disorganized. Additionally, information on the UN’s Sustainable Development Goals is difficult to locate with a few clicks. Therefore, one of the main goals is to make it easy for the user to find information on these goals and what they are. 
 
-1. Grid Design & Layout (alligning all items with a grid)
+The interface design process for this website includes the following process: 
+
+1. Grid Design & Layout (aligning all items with a grid)
 2. Typographic Design & Variations (designing & varying the text fonts)
 3. Shape Design & Variations (designing & varying the shape of boxes/buttons)
-4. Color Design & Variations (designing & varying the color options, specificlaly a light and dark mode)
+4. Color Design & Variations (designing & varying the color options, specifically a light and dark mode)
+5. Accessibility CHeck (check on color contrast)
+6. User Impression Testing
+7. Revisions from user feedback
+8. Final Interface Design
 
 The purpose of the interface design process is to iterate through various design elements that the user may see on a specific website or app, particularly from an aesthetic and functional view. Interface design focuses on anticipating what the user needs and will do as they navigate the website/app. The goal of this process is to design an interface that is (1) appealing to the user, (2) easy to navigate, and (3) engages the user in an effective and efficient way. The wireframe chosen for this design process is show below under [screen design (under grid layout ----> base layout).]() 
 
