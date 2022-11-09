@@ -37,17 +37,17 @@ The purpose of the interface design process is to iterate through various design
 
 ### Typographic Variations
 <p align="center">
-  <img src="typo.png" alt="Typographic Variations" width="400px"/>
+  <img src="typo.png" alt="Typographic Variations" width="500px"/>
 </p>
 
 ### Shape Variations
 <p align="center">
-  <img src="shape.png" alt="Shape Variations" width="400px"/>
+  <img src="shape.png" alt="Shape Variations" width="500px"/>
 </p>
 
 ### Color Variations (Light vs. Dark Mode)
 <p align="center">
-  <img src="color.png" alt="Color Variations" width="400px"/>
+  <img src="color.png" alt="Color Variations" width="425px"/>
 </p>
 
 ### Current Design Choice
