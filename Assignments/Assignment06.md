@@ -101,6 +101,23 @@ The following is the final interface design. This design incorporates all of my 
 
 ## Design System Summary
 
+### Graphic Design Summary
+**Typeface Family: Nunito Sans**
+* Header: Bold, Size 32
+* Body: Regular, Size 16
+* Goal Button Labels: Size 22
+* Navigation Button Labels: Bold, Size 14
+* Newsletter Button Label: Size 18
+
+### Color Scheme
 <p align="center">
   <img src="adobe.png" alt="Adobe Colors" width="500px"/>
 </p>
+
+The colors extracted from the logo using Adobe were used, in addition to a couple of other colors in order to add variation and to pass color contrast tests. 
+
+* Header: 049DD9
+* Goal Buttons: 006A94
+* Navigation Button Labels: 000000
+* Newsletter Button Label: 006A94
+* Background: F0F9FD
