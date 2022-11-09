@@ -125,3 +125,15 @@ The colors extracted from the logo using Adobe were used, in addition to a coupl
 ### Layout Grid
 * 14 rows (0 margin, 5 gutter)
 * 3 columns (25 margin, 15 gutter)
+
+### Graphical Interface Design
+
+#### Typographic Design
+
+#### Shape Design
+
+#### Color Design
+
+#### Overall Design
+
+
