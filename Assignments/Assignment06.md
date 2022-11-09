@@ -85,7 +85,6 @@ Following the comments from the impression test, the following revisions were ma
 
 Revision 1: Added clicking indicator on each button. This does not look good as the text is no longer centered and looks disorganized. 
 Revision 2: Added icon next to newsletter sign up button. This works well. 
-
 Revision 3: Includes Revision 2 & context under the title. This required some adjustment to the title, but worked out well. This will be a good design feature on additional pages as well. 
 
 <p align="center">
