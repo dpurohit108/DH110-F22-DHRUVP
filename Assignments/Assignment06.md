@@ -21,7 +21,7 @@ The purpose of the interface design process is to iterate through various design
 
 ### Wireframe Layout Choice 
 <p align="center">
-  <img src="initialchoice.png" alt="Wireframe Choice" width="500px"/>
+  <img src="initialchoice.png" alt="Wireframe Choice" width="200px"/>
 </p>
 
 * **The digitized version of the wireframe/wireflow designed in [Assignment 5](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md) can be found [here]().**
