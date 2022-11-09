@@ -60,14 +60,13 @@ The user I used for the impression test preferred that I use their direct quotat
 
 User quotes: 
 
-* "I think each button that states 'goal 1, 2, 3 etc..' could have an indicator, like an arrow, that encourages the user to click on the button. 
 * "The color choice is dynamic and catches my eye"
 * "Adding some sort of symbol next to the newsletter sign-up would be nice"
 * "The design is very symmetrical"
 * "The page is filled with blue buttons, however, the black buttons stand out"
 * "It would be helpful to have some context to the page. A small bit of text at the beginning would be ideal"
 
-Overall, the user found my interface design pretty good and liked the design choices I made. The user noted the consistency and symmetry, both items that I prioritized in the design. They recognized the black buttons at the bottom, which were designed to stand out on purpose. In the case the user accidentally reached this page, they had options to return to the home page. Additionally, if they finished going through the goals, they had the option to read more information. The user pointed out that it would be more helpful to have some additional context to the page. I agree with this, especially as this is a design aspect that is needed on additional pages as well. As I do revisions, this will be the biggest thing to keep in mind with the interface design. Having some space for context/summary/instructions on any page is critical, and I'm glad the user was able to identify this. 
+Overall, the user found my interface design pretty good and liked the design choices I made. The user noted the consistency and symmetry, both items that I prioritized in the design. They recognized the black buttons at the bottom, which were designed to stand out on purpose. In the case the user accidentally reached this page, they had options to return to the home page. The user also mentioned adding an arrow or indicator on each goal button that clearly indicates that it is clickable. This may be difficult as it will mess with the alignment, however, when doing revisions, it will be considered. The user pointed out that it would be more helpful to have some additional context to the page. I agree with this, especially as this is a design aspect that is needed on additional pages as well. As I do revisions, this will be the biggest thing to keep in mind with the interface design. Having some space for context/summary/instructions on any page is critical, and I'm glad the user was able to identify this. 
 
 ## Accessibility Check
 A color contrast accessibility test was run on the various color contrasts on the interface design using the [Spark](https://www.getstark.co/) plugin. The results on the various contrasts can be seen in the screenshots below. 
@@ -79,7 +78,7 @@ A color contrast accessibility test was run on the various color contrasts on th
   <img src="access4.png" alt="Color accessibility" width="200px"/>
 </p>
 
-All of the color contrassts passed the WCAG 2.0 AA level. Three of the four tests did not pass the AAA level, however, since all the text falls into the "large text" category and since we are primarily concerned with the AA test, I came to the conclusion that the chosen colors were accessible. 
+All of the color contrasts passed the WCAG 2.0 AA level. Three of the four tests did not pass the AAA level, however, since all the text falls into the "large text" category and since we are primarily concerned with the AA test, I came to the conclusion that the chosen colors were accessible. 
 
 ## Revisions
 Following the comments from the impression test, the following revisions were made to the [current design choice](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md#current-design-choice) that I had previously selected.
@@ -129,11 +128,13 @@ The colors extracted from the logo using Adobe were used, in addition to a coupl
 ### Graphical Interface Design
 
 #### Typographic Design
+For the typographic design, I chose Nunito Sans. I chose this font as it appeared professional, yet welcoming. When creating the design options, I compared Nunito Sans, Fjalla One, and Bebas Neue. Fjalla One was a little too informal and the text was too thick. Bebas Neue was an all-caps font, which did not go well with the other aspects on the page/site. Therefore, I went for Nunito Sans, the font that was simple, yet welcoming and professional. To make the heading stand out, it was bolded. Additioanly, the navigation buttons (black buttons) were also bolded. 
 
 #### Shape Design
+The goal with shape design was to have a square option, round option, and in-between (in between square and round) option. Overall, when choosing the best shape, the goal was choosing what would make the page feel warm and welcoming to the user. In this case, the square and fully circular (corner radius = 40) were both extremes. The in-between option (corner radius = 10) looked to be the best fit. It wasn't as cut edge as the square, yet not as rounded as the circle. Visually, it also fulfilled my goal of making the site inviting.  
 
 #### Color Design
+The color design was pretty straightforward as my goal was to stay within the current colors already within the logo. However, due to the page layout and in order to meet color contrast checks, additional colors were added. These colors, however, were not random. They were in line with the existing palette, and were mostly lighter or darker versions of other colors already present. When it came to choosing light mode vs. dark mode, I chose light as the dark mode was color overload. Having the dark turquoise at the top of the page and as a background did not suit the design well. 
 
 #### Overall Design
-
-
+Overall, I aimed to go for a simplistic, clean, and organized design. I feel like this goal was well achieved in the final design. Being able to incorporate the user feedback and make revisions was great as well. Since the focus of this whole process is the user, being able to get the feedback and implement it improved the interface design. The final design is inviting and warm for the user. It features many options for user interactions, and provides the user with a way to navigate to other parts of the site. The colors stand out and make the site look professional and legitimate as well. All of these elements combine to create an new and effective interface design for the UN Environment Programme Website. 
