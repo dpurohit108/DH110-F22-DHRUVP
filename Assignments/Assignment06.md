@@ -56,18 +56,18 @@ The purpose of the interface design process is to iterate through various design
 </p>
 
 ## Impression Test
-The user I used for the impression test preferred that I use their direct quotations as part of the summary. As they viewed my screen designs, I took note of the comments that were made (both positive and negative). I asked the user to give their impression of the current design choice (above). Following their initial, quick impression of my design, I asked them some further questions about the design to ensure that they were able to tell me things they liked and disliked. I then guided them through the various design options and asked them to point out what the liked/disliked. 
+The user I used for the impression test preferred that I use their direct quotations as part of the summary. As they viewed my screen designs, I took note of the comments that were made (both positive and negative). I asked the user to give their impression of the current design choice (above). Following their initial, quick impression of my design, I asked them some further questions about the design to ensure that they were able to tell me things they liked and disliked.
 
 User quotes: 
 
 * "I think each button that states 'goal 1, 2, 3 etc..' could have an indicator, like an arrow, that encourages the user to click on the button. 
 * "The color choice is dynamic and catches my eye"
-* "Adding some sort of symbol next to the newsletter sign-up and additional buttons near the bottom would be nice"
+* "Adding some sort of symbol next to the newsletter sign-up would be nice"
 * "The design is very symmetrical"
 * "The page is filled with blue buttons, however, the black buttons stand out"
 * "It would be helpful to have some context to the page. A small bit of text at the beginning would be ideal"
 
-Overall, the user found my interface design pretty good and liked the design choices I made. 
+Overall, the user found my interface design pretty good and liked the design choices I made. The user noted the consistency and symmetry, both items that I prioritized in the design. They recognized the black buttons at the bottom, which were designed to stand out on purpose. In the case the user accidentally reached this page, they had options to return to the home page. Additionally, if they finished going through the goals, they had the option to read more information. The user pointed out that it would be more helpful to have some additional context to the page. I agree with this, especially as this is a design aspect that is needed on additional pages as well. As I do revisions, this will be the biggest thing to keep in mind with the interface design. Having some space for context/summary/instructions on any page is critical, and I'm glad the user was able to identify this. 
 
 ## Accessibility Check
 A color contrast accessibility test was run on the various color contrasts on the interface design using the [Spark](https://www.getstark.co/) plugin. The results on the various contrasts can be seen in the screenshots below. 
@@ -84,12 +84,16 @@ All of the text passed the WCAG 2.0 AA level. Three of the four tests did not pa
 ## Revisions
 Following the comments from the impression test, the following revisions were made to the [current design choice](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md#current-design-choice) that I had previously selected.
 
+Revision 1: Added clicking indicator on each button. This does not look good as the text is no longer centered and looks disorganized. 
+Revision 2: Added icon next to newsletter sign up button. This works well. 
+Revision 3: Includes Revision 2 & context under the title. This required some adjustment to the title, but worked out well. This will be a good design feature on additional pages as well. 
+
 <p align="center">
   <img src="revision.png" alt="Revisions" width="500px"/>
 </p>
 
 ## Final Design
-The following is the final interface design:
+The following is the final interface design. This design incorporates all of my design ideas and two revisions added from the user's impression test. Additional information on the design decisions can be found below under the design system summary. 
 
 <p align="center">
   <img src="finaldesign.png" alt="Final Design" width="300px"/>
