@@ -38,10 +38,9 @@ The user I used for the impression test preferred that I use their direct quatat
 ## Accessibility Check
 
 <p align="center">
-  <img src="access1.png" alt="Color accessibility check" width="200px"/>
-  <img src="access2.png" alt="Color accessibility check for body copy" width="200px"/>
-  <img src="access3.png" alt="Color accessibility check" width="200px"/>
-  <img src="access4.png" alt="Color accessibility check" width="200px"/>
+  <img src="access1.png" alt="Color accessibility" width="300px"/>
+  <img src="access2.png" alt="Color accessibility" width="300px"/>
+  <img src="access3.png" alt="Color accessibility" width="300px"/>
 </p>
 
 ## Revisions
