@@ -56,11 +56,18 @@ The purpose of the interface design process is to iterate through various design
 </p>
 
 ## Impression Test
-The user I used for the impression test preferred that I use their direct quatations. As they viewed my screen designs, I took note of the comments that made (both positive and negative). I asked the user to give their impression of the design presented under 
+The user I used for the impression test preferred that I use their direct quotations as part of the summary. As they viewed my screen designs, I took note of the comments that were made (both positive and negative). I asked the user to give their impression of the current design choice (above). Following their initial, quick impression of my design, I asked them some further questions about the design to ensure that they were able to tell me things they liked and disliked. I then guided them through the various design options and asked them to point out what the liked/disliked. 
+
+User quotes: 
 
 * "I think each button that states 'goal 1, 2, 3 etc..' could have an indicator, like an arrow, that encourages the user to click on the button. 
 * "The color choice is dynamic and catches my eye"
-* 
+* "Adding some sort of symbol next to the newsletter sign-up and additional buttons near the bottom would be nice"
+* "The design is very symmetrical"
+* "The page is filled with blue buttons, however, the black buttons stand out"
+* "The page is lacking clear direction on what they should when they reach the page"
+
+Overall, the user found my interface design pretty good and liked the design choices I made. 
 
 ## Accessibility Check
 A color contrast accessibility test was run on the various color contrasts on the interface design using the [Spark](https://www.getstark.co/) plugin. The results on the various contrasts can be seen in the screenshots below. 
