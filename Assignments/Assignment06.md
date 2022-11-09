@@ -97,7 +97,7 @@ The following is the final interface design:
 
 ## Design System Summary
 <p align="center">
-  <img src="finaldesign.png" alt="Final Design" width="200px"/>
+  <img src="final2.png" alt="Final Design" width="200px"/>
 </p>
 
 <p align="center">
