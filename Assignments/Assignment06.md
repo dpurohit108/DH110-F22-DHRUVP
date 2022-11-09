@@ -12,7 +12,7 @@ The goal of this project is to redesign the current [UN Environment Programme](h
 
 ## Screen Design
 
-### Grid Layout
+### Grid Layout ----> Base Layout
 <p align="center">
   <img src="grid.png" alt="Grid Layout" width="500px"/>
 </p>
