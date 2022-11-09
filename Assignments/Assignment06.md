@@ -6,13 +6,13 @@ Dhruv Purohit | DH110 | Fall 2022
 
 The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible for the ideal and most common user.  
 
+The purpose of the interface design process is to interate throught various design elements that the user sees from an aesthetic and functional view. Interface design focuses on anti
+
 * The digitized version of the wireframe/wireflow designed in [Assignment 5](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md) can be found [here]().
 
 * The screen designs designed on [Figma](https://www.figma.com/) can be found [here](https://www.figma.com/file/HlX4ncn8STQ01Od3mUnfZv/A6%3A-Interface-Design?node-id=0%3A1).
 
 ## Screen Design
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHlX4ncn8STQ01Od3mUnfZv%2FA6%253A-Interface-Design%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ### Grid Layout ----> Base Layout
 <p align="center">
