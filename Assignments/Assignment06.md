@@ -83,9 +83,9 @@ All of the color contrasts passed the WCAG 2.0 AA level. Three of the four tests
 ## Revisions
 Following the comments from the impression test, the following revisions were made to the [current design choice](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md#current-design-choice) that I had previously selected.
 
-Revision 1: Added clicking indicator on each button. This does not look good as the text is no longer centered and looks disorganized. 
-Revision 2: Added icon next to newsletter sign up button. This works well. 
-Revision 3: Includes Revision 2 & context under the title. This required some adjustment to the title, but worked out well. This will be a good design feature on additional pages as well. 
+* Revision 1: Added clicking indicator on each button. This does not look good as the text is no longer centered and looks disorganized. 
+* Revision 2: Added icon next to newsletter sign up button. This works well. 
+* Revision 3: Includes Revision 2 & context under the title. This required some adjustment to the title, but worked out well. This will be a good design feature on additional pages as well. 
 
 <p align="center">
   <img src="revision.png" alt="Revisions" width="500px"/>
