@@ -71,7 +71,7 @@ A color contrast accessibility test was run on the various color contrasts on th
   <img src="access4.png" alt="Color accessibility" width="200px"/>
 </p>
 
-All of the tests passed the WCAG 2.0 AA level. Three of the four tests did not pass the AAA level, however, since all the text falls into the "large text" category and since we are primarily concerned with the AA test, I came to the conclusion that the chosen colors were accessible. 
+All of the text passed the WCAG 2.0 AA level. Three of the four tests did not pass the AAA level, however, since all the text falls into the "large text" category and since we are primarily concerned with the AA test, I came to the conclusion that the chosen colors were accessible. 
 
 ## Revisions
 Following the comments from the impression test, the following revisions were made to the [current design choice]() that I had previously selected.
