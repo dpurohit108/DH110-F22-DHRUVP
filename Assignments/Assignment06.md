@@ -114,10 +114,14 @@ The following is the final interface design. This design incorporates all of my 
   <img src="adobe.png" alt="Adobe Colors" width="500px"/>
 </p>
 
-The colors extracted from the logo using Adobe were used, in addition to a couple of other colors in order to add variation and to pass color contrast tests. 
+The colors extracted from the logo using Adobe were used, in addition to a couple of other colors in order to add variation and to pass color contrast tests. The colors chosen match the general scheme, however, the Spark color contrast required some colors to be darkened/lightened. Per the assignment instructions, these colors were modified and used accordingly. 
 
 * Header: 049DD9
 * Goal Buttons: 006A94
 * Navigation Button Labels: 000000
 * Newsletter Button Label: 006A94
 * Background: F0F9FD
+
+### Layout Grid
+* 14 rows (0 margin, 5 gutter)
+* 3 columns (25 margin, 15 gutter)
