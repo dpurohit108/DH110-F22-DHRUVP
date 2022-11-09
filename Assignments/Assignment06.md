@@ -92,7 +92,7 @@ Following the comments from the impression test, the following revisions were ma
 The following is the final interface design:
 
 <p align="center">
-  <img src="finaldesign.png" alt="Final Design" width="500px"/>
+  <img src="finaldesign.png" alt="Final Design" width="200px"/>
 </p>
 
 ## Design System Summary
