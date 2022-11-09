@@ -65,7 +65,7 @@ User quotes:
 * "Adding some sort of symbol next to the newsletter sign-up and additional buttons near the bottom would be nice"
 * "The design is very symmetrical"
 * "The page is filled with blue buttons, however, the black buttons stand out"
-* "The page is lacking clear direction on what they should when they reach the page"
+* "It would be helpful to have some context to the page. A small bit of text at the beginning would be ideal"
 
 Overall, the user found my interface design pretty good and liked the design choices I made. 
 
@@ -92,7 +92,7 @@ Following the comments from the impression test, the following revisions were ma
 The following is the final interface design:
 
 <p align="center">
-  <img src="finaldesign.png" alt="Final Design" width="200px"/>
+  <img src="final2.png" alt="Final Design" width="200px"/>
 </p>
 
 ## Design System Summary
