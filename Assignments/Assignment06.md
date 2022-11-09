@@ -59,6 +59,7 @@ The purpose of the interface design process is to iterate through various design
 The user I used for the impression test preferred that I use their direct quatations. As they viewed my screen designs, I took note of the comments that made (both positive and negative). I asked the user to give their impression of the design presented under 
 
 * "I think each button that states 'goal 1, 2, 3 etc..' could have an indicator, like an arrow, that encourages the user to click on the button. 
+* "The color choice is dynamic and catches my eye"
 * 
 
 ## Accessibility Check
