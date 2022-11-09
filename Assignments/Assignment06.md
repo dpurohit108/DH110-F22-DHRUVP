@@ -50,5 +50,3 @@ The user I used for the impression test preferred that I use their direct quatat
 
 
 ## Design System Summary
-
-****
