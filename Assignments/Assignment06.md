@@ -17,11 +17,16 @@ The interface design process for this website includes the following process:
 7. Revisions from user feedback
 8. Final Interface Design
 
-The purpose of the interface design process is to iterate through various design elements that the user may see on a specific website or app, particularly from an aesthetic and functional view. Interface design focuses on anticipating what the user needs and will do as they navigate the website/app. The goal of this process is to design an interface that is (1) appealing to the user, (2) easy to navigate, and (3) engages the user in an effective and efficient way. **The wireframe chosen for this design process is show below under [screen design (under grid layout ----> base layout).](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md#grid-layout------base-layout)**
+The purpose of the interface design process is to iterate through various design elements that the user may see on a specific website or app, particularly from an aesthetic and functional view. Interface design focuses on anticipating what the user needs and will do as they navigate the website/app. The goal of this process is to design an interface that is (1) appealing to the user, (2) easy to navigate, and (3) engages the user in an effective and efficient way. 
 
-* The digitized version of the wireframe/wireflow designed in [Assignment 5](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md) can be found [here]().
+### Wireframe Layout Choice 
+<p align="center">
+  <img src="initialchoice.png" alt="Wireframe Choice" width="500px"/>
+</p>
 
-* The screen designs designed on [Figma](https://www.figma.com/) can be found [here](https://www.figma.com/file/HlX4ncn8STQ01Od3mUnfZv/A6%3A-Interface-Design?node-id=0%3A1).
+* **The digitized version of the wireframe/wireflow designed in [Assignment 5](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md) can be found [here]().**
+
+* **The screen designs designed on [Figma](https://www.figma.com/) can be found [here](https://www.figma.com/file/HlX4ncn8STQ01Od3mUnfZv/A6%3A-Interface-Design?node-id=0%3A1).**
 
 ## Screen Design
 
@@ -45,10 +50,19 @@ The purpose of the interface design process is to iterate through various design
   <img src="color.png" alt="Color Variations" width="500px"/>
 </p>
 
+### Current Design Choice
+<p align="center">
+  <img src="designchoice.png" alt="Design Choice" width="500px"/>
+</p>
+
 ## Impression Test
-The user I used for the impression test preferred that I use their direct quatations. As they viewed my screen designs, I took note of the comments that made. I asked the user
+The user I used for the impression test preferred that I use their direct quatations. As they viewed my screen designs, I took note of the comments that made (both positive and negative). I asked the user to give their impression of the design presented under 
+
+* "I think each button that states 'goal 1, 2, 3 etc..' could have an indicator, like an arrow, that encourages the user to click on the button. 
+* 
 
 ## Accessibility Check
+A color contrast accessibility test was run on the various color contrasts on the interface design using the [Spark](https://www.getstark.co/) plugin. The results on the various contrasts can be seen in the screenshots below. 
 
 <p align="center">
   <img src="access1.png" alt="Color accessibility" width="200px"/>
@@ -57,7 +71,20 @@ The user I used for the impression test preferred that I use their direct quatat
   <img src="access4.png" alt="Color accessibility" width="200px"/>
 </p>
 
-## Revisions
+All of the tests passed the WCAG 2.0 AA level. Three of the four tests did not pass the AAA level, however, since all the text falls into the "large text" category and since we are primarily concerned with the AA test, I came to the conclusion that the chosen colors were accessible. 
 
+## Revisions
+Following the comments from the impression test, the following revisions were made to the [current design choice]() that I had previously selected.
+
+<p align="center">
+  <img src="revision.png" alt="Revisions" width="500px"/>
+</p>
+
+## Final Design
+The following is the final interface design:
+
+<p align="center">
+  <img src="finaldesign.png" alt="Final Design" width="500px"/>
+</p>
 
 ## Design System Summary
