@@ -32,27 +32,27 @@ The purpose of the interface design process is to iterate through various design
 
 ### Grid Layout ----> Base Layout
 <p align="center">
-  <img src="grid.png" alt="Grid Layout" width="500px"/>
+  <img src="grid.png" alt="Grid Layout" width="400px"/>
 </p>
 
 ### Typographic Variations
 <p align="center">
-  <img src="typo.png" alt="Typographic Variations" width="500px"/>
+  <img src="typo.png" alt="Typographic Variations" width="400px"/>
 </p>
 
 ### Shape Variations
 <p align="center">
-  <img src="shape.png" alt="Shape Variations" width="500px"/>
+  <img src="shape.png" alt="Shape Variations" width="400px"/>
 </p>
 
 ### Color Variations (Light vs. Dark Mode)
 <p align="center">
-  <img src="color.png" alt="Color Variations" width="500px"/>
+  <img src="color.png" alt="Color Variations" width="400px"/>
 </p>
 
 ### Current Design Choice
 <p align="center">
-  <img src="designchoice.png" alt="Design Choice" width="500px"/>
+  <img src="designchoice.png" alt="Design Choice" width="200px"/>
 </p>
 
 ## Impression Test
