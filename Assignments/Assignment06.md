@@ -96,9 +96,6 @@ The following is the final interface design:
 </p>
 
 ## Design System Summary
-<p align="center">
-  <img src="final2.png" alt="Final Design" width="200px"/>
-</p>
 
 <p align="center">
   <img src="adobe.png" alt="Adobe Colors" width="500px"/>
