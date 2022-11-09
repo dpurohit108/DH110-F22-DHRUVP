@@ -17,7 +17,7 @@ The interface design process for this website includes the following process:
 7. Revisions from user feedback
 8. Final Interface Design
 
-The purpose of the interface design process is to iterate through various design elements that the user may see on a specific website or app, particularly from an aesthetic and functional view. Interface design focuses on anticipating what the user needs and will do as they navigate the website/app. The goal of this process is to design an interface that is (1) appealing to the user, (2) easy to navigate, and (3) engages the user in an effective and efficient way. The wireframe chosen for this design process is show below under [screen design (under grid layout ----> base layout).]() 
+The purpose of the interface design process is to iterate through various design elements that the user may see on a specific website or app, particularly from an aesthetic and functional view. Interface design focuses on anticipating what the user needs and will do as they navigate the website/app. The goal of this process is to design an interface that is (1) appealing to the user, (2) easy to navigate, and (3) engages the user in an effective and efficient way. **The wireframe chosen for this design process is show below under [screen design (under grid layout ----> base layout).](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md#grid-layout------base-layout)**
 
 * The digitized version of the wireframe/wireflow designed in [Assignment 5](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md) can be found [here]().
 
