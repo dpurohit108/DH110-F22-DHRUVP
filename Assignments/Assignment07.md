@@ -20,6 +20,8 @@ The full interactive prototype can be found [here](https://www.figma.com/proto/8
 
 ## Cognative Walkthrough & Feedback Summary
 
-To be updated following group work in class on Wednesday, November 16th.
+To be updated following group work/in class cognative walkthrough on Wednesday, November 16th.
 
 ## Reflections & Revisions
+
+Additional comments will be added following the cognative walkthrough in class on Wednesday, November 16th.
