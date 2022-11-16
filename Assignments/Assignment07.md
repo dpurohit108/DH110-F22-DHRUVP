@@ -14,7 +14,7 @@ The following tasks are supported by this interactive prototype:
 ## Updated Wireframes with Graphic Design
 
 <p align="center">
-  <img src="flow2.png" alt="Flow"/>
+  <img src="flow4.png" alt="Flow"/>
 </p>
 
 The updated wireframes/wireflow can be found [here](https://www.figma.com/file/70jzqqbnqGPVP5KZgTsiL1/Updated-Flow?node-id=0%3A1&t=hHNvR5jRHP892VcB-1).
