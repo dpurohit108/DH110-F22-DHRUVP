@@ -13,7 +13,11 @@ The following tasks are supported by this interactive prototype:
 
 ## Updated Wireframes with Graphic Design
 
-The updated wireframes/wireflow can be found [here](https://www.figma.com/file/irE5BbjQbOCEMpGWl0Qwuh/Updated-Wireframe%2Fflow?node-id=0%3A1&t=t0KpkCfr07Pk8erZ-1).
+<p align="center">
+  <img src="flow.png" alt="Flow" width="400px"/>
+</p>
+
+The updated wireframes/wireflow can be found [here](https://www.figma.com/file/70jzqqbnqGPVP5KZgTsiL1/Updated-Flow?node-id=0%3A1&t=hHNvR5jRHP892VcB-1).
 
 ## Interactive Prototype
 
