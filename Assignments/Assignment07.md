@@ -3,16 +3,17 @@
 Dhruv Purohit | DH110 | Fall 2022
 
 ## Project Description
+The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible. 
 
 ## Tasks
 The following tasks are supported by this interactive prototype: 
-1. Find the list of all the sustainable development goals and specifically find more details on goal 15 and the goal's targets.
+1. Find the list of all the sustainable development goals and specifically find more details on goal 15 and the goal's challenges & solutions.
 2. Find information on practical tips that the user can implement to have a positive impact towards the goals, specifically goal 15.
 3. Extra: Subsribing to the newsletter to enable the user to stay engaged with the resources of the website. 
 
 ## Updated Wireframes with Graphic Design
 
-The updated wireframes/wireflow can be found [here]().
+The updated wireframes/wireflow can be found [here](https://www.figma.com/file/irE5BbjQbOCEMpGWl0Qwuh/Updated-Wireframe%2Fflow?node-id=0%3A1&t=t0KpkCfr07Pk8erZ-1).
 
 ## Interactive Prototype
 
