@@ -9,8 +9,8 @@ The purpose of the interactive prototype phase is to implement the interface des
 
 ## Tasks
 The following tasks are supported by this interactive prototype: 
-1. Find the list of all the sustainable development goals and specifically find more details on goal 15 and the goal's challenges & solutions.
-2. Find information on practical tips that the user can implement to have a positive impact towards the goals, specifically goal 15.
+1. Find the list of all the sustainable development goals and find more details on **goal 15** and the goal's challenges & solutions.
+2. Find information on practical tips that the user can implement to have a positive impact towards the goals, specifically related to goal 15.
 3. Extra: Subsribing to the newsletter to enable the user to stay engaged with the resources of the website. 
 
 ## Updated Wireframes with Graphic Design
