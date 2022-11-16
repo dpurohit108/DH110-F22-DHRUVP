@@ -5,7 +5,7 @@ Dhruv Purohit | DH110 | Fall 2022
 ## Project Description
 The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible. The tasks (outlined below) are the main objective of the interactive prototype. The proposed improvements are all included within these tasks and the prototype. 
 
-The purpose of the interactive prototype phase is to implement the interface design and wireflow together to create a functioning model of the proposed website. The interactive prototype brings to life the changes that have been in writing and testing for the last many assignments. By getting feedback on this realistic model of the website, further improvements can be made to make the user experience as seamless as possible. 
+The purpose of the interactive prototype phase is to implement the interface design and wireflow together to create a functioning model of the proposed website. The interactive prototype brings to life the changes that have been in writing and testing for the last many assignments. By getting feedback on this realistic model of the website, further improvements can be made to make the user experience as seamless as possible. The process for creating this protype has come from work in previous assignments relating to interface design and wireflow. Following the prototype creation, feedback will be collected from users. 
 
 ## Tasks
 The following tasks are supported by this interactive prototype: 
