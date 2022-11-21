@@ -37,15 +37,15 @@ Further details on the user research process can be found on the [Assignment 3](
 ### Empathy Maps
 
 <p align="center">
-  <img src="2.png" alt="Kasey Empathy Map"/>
-  <img src="5.png" alt="Kennedy Empathy Map"/>
+  <img src="2.png" alt="Kasey Empathy Map" width="500px"/>
+  <img src="5.png" alt="Kennedy Empathy Map" width="500px"/>
 </p>
 
 ### Journey Maps
 
 <p align="center">
-  <img src="3.png" alt="Kasey Journey"/>
-  <img src="6.png" alt="Kennedy Journey"/>
+  <img src="3.png" alt="Kasey Journey" width="500px"/>
+  <img src="6.png" alt="Kennedy Journey" width="500px"/>
 </p>
 
 Further details on the UX storytelling process and scenarios can be found on the [Assignment 4](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md) page. 
