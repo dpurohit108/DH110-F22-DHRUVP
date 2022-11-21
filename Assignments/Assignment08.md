@@ -30,8 +30,8 @@ Further details on the user research process can be found on the [Assignment 3](
 ### User Personas
 
 <p align="center">
-  <img src="1.png" alt="Kasey User Persona" width="300px"/>
-  <img src="4.png" alt="Kennedy User Persona width="300px"/>
+  <img src="1.png" alt="Kasey User Persona" width="400px"/>
+  <img src="4.png" alt="Kennedy User Persona" width="400px"/>
 </p>
 
 ### Empathy Maps
