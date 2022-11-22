@@ -28,6 +28,8 @@ The full interactive prototype can be found [here](https://www.figma.com/proto/8
 ## Cognative Walkthrough (Updated following in class cognative walkthrough)
 
 The following were generalized comments & quotes made by two fellow DH110 students during an in class cognative walk through on Wednesday, November 16th.
+The comments and notes recorded using Google Forms can be found [here](https://docs.google.com/document/d/1Kxph_524VaKWZBmiZiLl0LsLY00k5Ua1Gwj5ecwKFnw/edit).
+
 * "Maybe hamburger menu should be accessible from all pages"
 * "Ensure that logo on the top links back to home on all instances"
 * "A little confusing why they are all different colors? perhaps all stories can be one kind of blue and the press release can be another shade of blue"
