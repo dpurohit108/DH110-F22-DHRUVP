@@ -48,11 +48,17 @@ The feedback summary can be found below.
 
 The cognitive walkthrough process went smoothly, and both participants agreed that it went smoothly for the most part. Both users made comments both on the interactive prototype and on the google form. The feedback I received mostly pertained to ways that I could improve the site's navigation. The users pointed out ways for me to make the back buttons more effective, in addition to ensuring that users can have easy access to the site menu from more pages. Currently all of my return to home/previous page buttons are written with text and not necessarily in the best locations. The users suggested that I utilize icons and move the buttons on certain pages. This being my first time, I didn't think I would get so much good feedback that would really improve the navigation and usability of my site. While the users were able to complete all the tasks successfully, they noted/suggested some changes and issues that they ran into when navigating the site. I found this process very effective and a great way to test how successful the design is. I have noted numerous suggestions above (under cognitive walkthrough) and in this paragraph. In order to make best use of the comments and suggestions offered by the users, a list of the changes I made as a result of their comments can be found below along with a revised prototype featuring those changes. 
 
-The revised prototype can be found [here]() and includes the follolwing improvements, most of which were suggested by the users: 
-1. add
-2. add 
-3. add 
-4. add 
-5. add 
-6. add
-7. add
+The revised prototype can be found [here](https://www.figma.com/proto/Clu9FojG6FHp8pglP3ZQbl/High-Fidelity-(V2)?page-id=0%3A1&node-id=1%3A101&viewport=599%2C656%2C0.26&scaling=scale-down&starting-point-node-id=1%3A101) and includes the follolwing improvements, most of which were suggested by the users: 
+
+1. Changed colors of news articles/press releases to be consistent rather than different shades of blue.
+2. Ensured that the logo at the top of the page consistentily linked back to the home page. 
+3. On the menu page, allow the user to return to the original menu when they click the up arrow on the sustainable developemnt goals menu page. 
+4. Ensure that the hamburger menu bar is accessible from additional pages. 
+5. Redesign certain buttons to make them more intuitive and prominent. 
+6. Modified text on Goal 15 Details page to be left justified.
+7. Modified text headers on Goal 15 Details page to not look like buttons.
+8. add
+9. add
+10. add
+11. add
+12. While the users said to maybe add icons instead of saying "Return to Home" I found that this was not the best idea as it made the button look less prominenet and assumes that all users know that clicking a home icon will return them to the original home page. 
