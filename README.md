@@ -29,22 +29,22 @@ Further details on the user research process can be found on the [Assignment 3](
 ### User Personas
 
 <p align="center">
-  <img src="Assignments/1.png" alt="Kasey User Persona" width="500px"/>
-  <img src="Assignments/4.png" alt="Kennedy User Persona" width="500px"/>
+  <img src="Assignments/1.png" alt="Kasey User Persona" width="400px"/>
+  <img src="Assignments/4.png" alt="Kennedy User Persona" width="400px"/>
 </p>
 
 ### Empathy Maps
 
 <p align="center">
-  <img src="Assignments/2.png" alt="Kasey Empathy Map" width="500px"/>
-  <img src="Assignments/5.png" alt="Kennedy Empathy Map" width="500px"/>
+  <img src="Assignments/2.png" alt="Kasey Empathy Map" width="400px"/>
+  <img src="Assignments/5.png" alt="Kennedy Empathy Map" width="400px"/>
 </p>
 
 ### Journey Maps
 
 <p align="center">
-  <img src="Assignments/3.png" alt="Kasey Journey" width="500px"/>
-  <img src="Assignments/6.png" alt="Kennedy Journey" width="500px"/>
+  <img src="Assignments/3.png" alt="Kasey Journey" width="400px"/>
+  <img src="Assignments/6.png" alt="Kennedy Journey" width="400px"/>
 </p>
 
 Further details on the UX storytelling process and scenarios can be found on the [Assignment 4](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md) page. 
