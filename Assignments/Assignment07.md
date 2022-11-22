@@ -25,11 +25,14 @@ The updated wireframes/wireflow can be found [here](https://www.figma.com/file/7
 
 The full interactive prototype can be found [here](https://www.figma.com/proto/8pJf6XjZfpIPxfYtA0DmpO/High-Fidelity?page-id=0%3A1&node-id=1%3A101&viewport=563%2C644%2C0.25&scaling=min-zoom&starting-point-node-id=1%3A101).
 
-## Cognative Walkthrough & Feedback Summary
+## Cognative Walkthrough (Updated following in class cognative walkthrough)
 
-The following were comments made by two fellow DH110 students during an in class cognative walk through on Wednesday, November 16th.
+The following were generalized comments & quotes made by two fellow DH110 students during an in class cognative walk through on Wednesday, November 16th.
+* 
+* Ensure that logo on the top links back to home on all instances.
 * 
 
-## Reflections & Revisions
+## Feedback Summary  & Revisions (Updated following in class cognative walkthrough)
 
+The cognative walkthrough process went smoothly, and both participats agreed that it went smoothly for the most part. 
 Additional comments will be added following the cognative walkthrough in class on Wednesday, November 16th.
