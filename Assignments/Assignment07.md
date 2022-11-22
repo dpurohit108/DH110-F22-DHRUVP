@@ -28,11 +28,16 @@ The full interactive prototype can be found [here](https://www.figma.com/proto/8
 ## Cognative Walkthrough (Updated following in class cognative walkthrough)
 
 The following were generalized comments & quotes made by two fellow DH110 students during an in class cognative walk through on Wednesday, November 16th.
-* 
-* Ensure that logo on the top links back to home on all instances.
-* 
+* "Maybe hamburger menu should be accessible from all pages"
+* "Ensure that logo on the top links back to home on all instances"
+* "A little confusing why they are all different colors? perhaps all stories can be one kind of blue and the press release can be another shade of blue"
+* "I think back buttons would be helpful rather than just going to home"
+* "Provide a little more information that your newsletter can show?"
+* "Sorry I see there is a back button, this is somewhat unintuitive though"
+* "Return to home button does not seem super necessary? at least not on every page because maybe just make the logo a return to home button"
+* In reference to Goal 15 Details Page: "These kind of look like buttons that I can click, so it is deceiving that it is not" and "center alignment is a little hard to read, would left align it"
+* "The interface does look clean"
 
 ## Feedback Summary  & Revisions (Updated following in class cognative walkthrough)
 
 The cognative walkthrough process went smoothly, and both participats agreed that it went smoothly for the most part. 
-Additional comments will be added following the cognative walkthrough in class on Wednesday, November 16th.
