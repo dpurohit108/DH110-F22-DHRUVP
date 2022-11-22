@@ -25,9 +25,9 @@ The updated wireframes/wireflow can be found [here](https://www.figma.com/file/7
 
 The full interactive prototype can be found [here](https://www.figma.com/proto/8pJf6XjZfpIPxfYtA0DmpO/High-Fidelity?page-id=0%3A1&node-id=1%3A101&viewport=563%2C644%2C0.25&scaling=min-zoom&starting-point-node-id=1%3A101).
 
-## Cognative Walkthrough (Updated following in class cognative walkthrough)
+## Cognitive Walkthrough (Updated following in class cognitive walkthrough)
 
-The following were generalized comments & quotes made by two fellow DH110 students during an in class cognative walk through on Wednesday, November 16th.
+The following were generalized comments & quotes made by two fellow DH110 students during an in class cognitive walk through on Wednesday, November 16th.
 The comments and notes recorded using Google Forms can be found [here](https://docs.google.com/document/d/1Kxph_524VaKWZBmiZiLl0LsLY00k5Ua1Gwj5ecwKFnw/edit).
 
 * "Maybe hamburger menu should be accessible from all pages"
@@ -39,7 +39,20 @@ The comments and notes recorded using Google Forms can be found [here](https://d
 * "Return to home button does not seem super necessary? at least not on every page because maybe just make the logo a return to home button"
 * In reference to Goal 15 Details Page: "These kind of look like buttons that I can click, so it is deceiving that it is not" and "center alignment is a little hard to read, would left align it"
 * "The interface does look clean"
+* The purpose of the website is clear and the user is able to make progress.
+* Some improvements can be made to make the navigation a bit easier.
 
-## Feedback Summary  & Revisions (Updated following in class cognative walkthrough)
+The feedback summary can be found below.
 
-The cognative walkthrough process went smoothly, and both participats agreed that it went smoothly for the most part. 
+## Feedback Summary & Revisions (Updated following in class cognitive walkthrough)
+
+The cognitive walkthrough process went smoothly, and both participants agreed that it went smoothly for the most part. Both users made comments both on the interactive prototype and on the google form. The feedback I received mostly pertained to ways that I could improve the site's navigation. The users pointed out ways for me to make the back buttons more effective, in addition to ensuring that users can have easy access to the site menu from more pages. Currently all of my return to home/previous page buttons are written with text and not necessarily in the best locations. The users suggested that I utilize icons and move the buttons on certain pages. This being my first time, I didn't think I would get so much good feedback that would really improve the navigation and usability of my site. While the users were able to complete all the tasks successfully, they noted/suggested some changes and issues that they ran into when navigating the site. I found this process very effective and a great way to test how successful the design is. I have noted numerous suggestions above (under cognitive walkthrough) and in this paragraph. In order to make best use of the comments and suggestions offered by the users, a list of the changes I made as a result of their comments can be found below along with a revised prototype featuring those changes. 
+
+The revised prototype can be found [here]() and includes the follolwing improvements, most of which were suggested by the users: 
+1. add
+2. add 
+3. add 
+4. add 
+5. add 
+6. add
+7. add
