@@ -27,7 +27,8 @@ The full interactive prototype can be found [here](https://www.figma.com/proto/8
 
 ## Cognative Walkthrough & Feedback Summary
 
-To be updated following group work/in class cognative walkthrough on Wednesday, November 16th.
+The following were comments made by two fellow DH110 students during an in class cognative walk through on Wednesday, November 16th.
+* 
 
 ## Reflections & Revisions
 
