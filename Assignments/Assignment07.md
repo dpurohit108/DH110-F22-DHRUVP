@@ -51,14 +51,11 @@ The cognitive walkthrough process went smoothly, and both participants agreed th
 **The revised prototype can be found [here](https://www.figma.com/proto/Clu9FojG6FHp8pglP3ZQbl/High-Fidelity-(V2)?page-id=0%3A1&node-id=1%3A101&viewport=599%2C656%2C0.26&scaling=scale-down&starting-point-node-id=1%3A101) and includes the following improvements, most of which were suggested by the cognitive walkthrough users:**
 
 1. Changed colors of news articles/press releases to be consistent rather than different shades of blue.
-2. Ensured that the logo at the top of the page consistentily linked back to the home page. 
-3. On the menu page, allow the user to return to the original menu when they click the up arrow on the sustainable developemnt goals menu page. 
+2. Ensured that the logo at the top of the page consistently linked back to the home page. 
+3. On the menu page, allow the user to return to the original menu when they click the up arrow on the sustainable development goals menu page. 
 4. Ensure that the hamburger menu bar is accessible from additional pages. 
 5. Redesign certain buttons to make them more intuitive and prominent. 
 6. Modified text on Goal 15 Details page to be left justified.
 7. Modified text headers on Goal 15 Details page to not look like buttons.
-8. add
-9. add
-10. add
-11. add
-12. While the users said to maybe add icons instead of saying "Return to Home" I found that this was not the best idea as it made the button look less prominenet and assumes that all users know that clicking a home icon will return them to the original home page. 
+8. Moving some buttons to make the navigation easier
+9. While the users said to maybe add icons instead of saying "Return to Home" I found that this was not the best idea as it made the button look less prominent and assumes that all users know that clicking a home icon will return them to the original home page. 
