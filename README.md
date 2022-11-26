@@ -22,6 +22,10 @@ The goal of this project is to redesign the current [UN Environment Programme](h
 
 The first step in this project was to choose two websites that fit the theme of the project (UN Sustainable Development Goal 15) and analyze various parts of the site to see is they passed Jacob Nielsen's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). For my analysis, I chose the [UN Environment Programme](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-15) website and the [SDG Tracker](https://sdg-tracker.org/biodiversity) website. Each of the ten heuristics were analyzed with respect to the websites and given a severity rating. 
 
+<p align="center">
+  <img src="Assignments/web14.png" alt="Webpage Landing" width = "500px"/>
+</p>
+
 With the [UN Environment Programme](https://www.unep.org) website (the website chosen for re-design), there were **minor usability problems** (fixes that require low priority) in the following categories: 
 
 1. Visibility of System Status
