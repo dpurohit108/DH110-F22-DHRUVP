@@ -148,12 +148,15 @@ Additional details on the user interface design process can be found [here](http
 
 The high fidelity prototype can be found below.
 
-<div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FClu9FojG6FHp8pglP3ZQbl%2FHigh-Fidelity-(V2)%3Fnode-id%3D0%253A1%26t%3DRLpyIdkwbP43hoLG-1" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F8pJf6XjZfpIPxfYtA0DmpO%2FHigh-Fidelity%3Fpage-id%3D0%253A1%26node-id%3D1%253A101%26viewport%3D566%252C307%252C0.11%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A101" allowfullscreen></iframe></div>
 
 Further details on the high-fidelity prototype can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment07.md).
 
 ## Further Evaluations & Revisions
 
+### Final Version Prototype 
+
+<div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FClu9FojG6FHp8pglP3ZQbl%2FHigh-Fidelity-(V2)%3Fpage-id%3D0%253A1%26node-id%3D1%253A101%26viewport%3D566%252C307%252C0.11%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A101" allowfullscreen></iframe></div>
 
 ## Pitch Video
 
