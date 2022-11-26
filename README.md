@@ -1,9 +1,9 @@
-# [Assignment 08: Project Pitch & Portfolio](https://dpurohit108.github.io/DH110-F22-DHRUVP/)
+# [Gaining Easier Access to Sustainability Issues and Solutions: UN Environment Programme Website Redesign](https://dpurohit108.github.io/DH110-F22-DHRUVP/)
 
 By: Dhruv Purohit, Digital Humanities 110 - Fall 2022
 
 ## About the Project
-The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible. In doing so, the aim is to make it easier for the user to find relevant information on sustainability in a quick and efficient manner. Currently, the site is difficult to navigate and disorganized. Additionally, information on the UN’s Sustainable Development Goals is difficult to locate with a few clicks. Therefore, one of the main goals is to make it easy for the user to find information on these goals and what they are. The website was evaluated and design changes and decesions were made over the course of 7 assigments in an 8 week period. These assignments highlited the following of analysis and design: 
+The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible. In doing so, the aim is to make it easier for the user to find relevant information on sustainability in a quick and efficient manner. Currently, the site is difficult to navigate and disorganized. Additionally, information on the UN’s Sustainable Development Goals is difficult to locate with a few clicks. Therefore, one of the main goals is to make it easy for the user to find information on these goals and what they are. The website was evaluated and design changes and decisions were made over the course of 7 assignments in an 8 week period. These assignments highlighted the following of analysis and design: 
 * Competitor Analysis
 * User Research 
 * UX Storytelling
@@ -39,7 +39,7 @@ and **major usability problem** (critical fixes that need high priority) in the 
 5. Help Users Recognize, Diagnose, and Recover From Errors
 6. Help and Documentation
 
-Overall, the website looked funational at first look, however, when analyzing the 10 heuristics, numerous issues were found, including the overall organization of the website.
+Overall, the website looked functional at first look, however, when analyzing the 10 heuristics, numerous issues were found, including the overall organization of the website.
 
 Further details on the heristic evluation can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment01.md).
 
@@ -71,7 +71,7 @@ The full usabiltiy test can be found below.
 <div style="text-align: center;"><iframe width="640" height="360" src="https://www.youtube.com/embed/8J-7qhC3U3M" title="110 Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-It was found that the issues that I had raised from the heuristic analysis were issues that the user faced while performing the usability testing. While the user was successful at completing a majority of the tasks (and subtasks) listed above, the user pointed out that the **most likely task*** they would complete was **the most difficult and time consuming**. The user was frustrated and somewhat lost at numerous points throughtout the testing process, and brought up specific issues pertaining to: 
+It was found that the issues that I had raised from the heuristic analysis were issues that the user faced while performing the usability testing. While the user was successful at completing a majority of the tasks (and subtasks) listed above, the user pointed out that the **most likely task*** they would complete was **the most difficult and time consuming**. The user was frustrated and somewhat lost at numerous points throughout the testing process, and brought up specific issues pertaining to: 
 
 * the search bar not working
 * menu bar not being fully functional
@@ -134,7 +134,7 @@ The initial digitized wireflow can be found below.
 
 <div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAZGK2xOzvmFMts9cegN1mN%2FDigitized-Wireflow%3Fnode-id%3D0%253A1%26t%3Dv7UoJClQfxIDmy1K-1" allowfullscreen></iframe></div>
 
-Further details on the low-fidelity prototype can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md) and on the digitized flow can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md)
+Further details on the low-fidelity prototype can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md) and further details on the digitized flow can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md)
 
 ## User Interface Design
 
