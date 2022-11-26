@@ -68,7 +68,7 @@ Task 4: Suppose you want to sign up for the newsletter.
 
 The full usabiltiy test can be found below. 
 
-<iframe width="500" height="450" src="https://www.youtube.com/embed/8J-7qhC3U3M" title="110 Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="450" align="center" src="https://www.youtube.com/embed/8J-7qhC3U3M" title="110 Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It was found that the issues that I had raised from the heuristic analysis were issues that the user faced while performing the usability testing. While the user was successful at completing a majority of the tasks (and subtasks) listed above, the user pointed out that the **most likely task*** they would complete was **the most difficult and time consuming**. The user was frustrated and somewhat lost at numerous points throughtout the testing process, and brought up specific issues pertaining to: 
 
@@ -131,7 +131,7 @@ Further details on the wireframes can be found [here](https://github.com/dpurohi
 
 The initial digitized wireflow can be found below. 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAZGK2xOzvmFMts9cegN1mN%2FDigitized-Wireflow%3Fnode-id%3D0%253A1%26t%3Dv7UoJClQfxIDmy1K-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" align="center" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAZGK2xOzvmFMts9cegN1mN%2FDigitized-Wireflow%3Fnode-id%3D0%253A1%26t%3Dv7UoJClQfxIDmy1K-1" allowfullscreen></iframe>
 
 Further details on the low-fidelity prototype can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md) and on the digitized flow can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md)
 
