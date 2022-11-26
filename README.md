@@ -4,7 +4,7 @@
 
 Dhruv Purohit | DH110 | Fall 2022
 
-## Introduction
+## About the Project
 The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible. In doing so, the aim is to make it easier for the user to find relevant information on sustainability in a quick and efficient manner. Currently, the site is difficult to navigate and disorganized. Additionally, information on the UN’s Sustainable Development Goals is difficult to locate with a few clicks. Therefore, one of the main goals is to make it easy for the user to find information on these goals and what they are. The website was evaluated and design changes and decesions were made over the course of 7 assigments in an 8 week period. These assignments highlited the following of analysis and design: 
 * Competitor Analysis
 * User Research 
@@ -18,12 +18,38 @@ The goal of this project is to redesign the current [UN Environment Programme](h
 
 ## Competitor Analysis
 
+### Heuristic evaluation
 
-Further details on the heristic evluation can be found on the [Assignment 1](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment01.md) page and additional details on the usability testing can be found on the [Assignment 2](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment02.md) page. 
+The first step in this project was to choose two websites that fit the theme of the project (UN Sustainable Development Goal 15) and analyze various parts of the site to see is they passed Jacob Nielsen's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). For my analysis, I chose the [UN Environment Programme](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-15) website and the [SDG Tracker](https://sdg-tracker.org/biodiversity) website. Each of the ten heuristics were analyzed with respect to the websites and given a severity rating. 
+
+With the [UN Environment Programme](https://www.unep.org) website (the website chosen for re-design), there were **minor usability problems** (fixes that require low priority) in the following categories: 
+
+1. Visibility of System Status
+2. Error Prevention
+3. Recognition Rather Than Recall
+
+and **major usability problem** (critical fixes that need high priority) in the following categories: 
+
+1. Match Between System and the Real World
+2. Consistency and Standards 
+3. Flexibility and Efficiency of Use
+4. Aesthetic and Minimalist Design
+5. Help Users Recognize, Diagnose, and Recover From Errors
+6. Help and Documentation
+
+Overall, the website looked funational at first look, however, when analyzing the 10 heuristics, numerous issues were found, including the overall organization of the website.
+
+Further details on the heristic evluation can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment01.md).
+
+### Usability Testing
+
+Additional details on the usability testing can be found on the [Assignment 2](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment02.md) page. 
+
 ## User Research
 
 
-Further details on the user research process can be found on the [Assignment 3](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment03.md) page. 
+Further details on the user research process can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment03.md).
+
 ## UX Storytelling
 
 ### User Personas
@@ -47,7 +73,7 @@ Further details on the user research process can be found on the [Assignment 3](
   <img src="Assignments/6.png" alt="Kennedy Journey" width="400px"/>
 </p>
 
-Further details on the UX storytelling process and scenarios can be found on the [Assignment 4](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md) page. 
+Further details on the UX storytelling process and scenarios can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md).
 
 ## Wireframes & User Interface Design
 
