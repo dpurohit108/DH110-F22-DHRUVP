@@ -95,8 +95,8 @@ Further details on the user research process can be found [here](https://github.
 ### Empathy Maps
 
 <p align="center">
-  <img src="Assignments/2.png" alt="Kasey Empathy Map" width="400px"/>
-  <img src="Assignments/5.png" alt="Kennedy Empathy Map" width="400px"/>
+  <img src="Assignments/2new.png" alt="Kasey Empathy Map" width="400px"/>
+  <img src="Assignments/5new.png" alt="Kennedy Empathy Map" width="400px"/>
 </p>
 
 ### Journey Maps
