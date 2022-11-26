@@ -68,7 +68,7 @@ Task 4: Suppose you want to sign up for the newsletter.
 
 The full usabiltiy test can be found below. 
 
-<iframe width="1600" height="708" src="https://www.youtube.com/embed/8J-7qhC3U3M" title="110 Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="450" src="https://www.youtube.com/embed/8J-7qhC3U3M" title="110 Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It was found that the issues that I had raised from the heuristic analysis were issues that the user faced while performing the usability testing. While the user was successful at completing a majority of the tasks (and subtasks) listed above, the user pointed out that the **most likely task*** they would complete was **the most difficult and time consuming**. The user was frustrated and somewhat lost at numerous points throughtout the testing process, and brought up specific issues pertaining to: 
 
