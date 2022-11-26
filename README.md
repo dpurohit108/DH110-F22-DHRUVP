@@ -70,6 +70,7 @@ The full usabiltiy test can be found below.
 
 <div style="text-align: center;"><iframe width="640" height="360" src="https://www.youtube.com/embed/8J-7qhC3U3M" title="110 Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+
 It was found that the issues that I had raised from the heuristic analysis were issues that the user faced while performing the usability testing. While the user was successful at completing a majority of the tasks (and subtasks) listed above, the user pointed out that the **most likely task*** they would complete was **the most difficult and time consuming**. The user was frustrated and somewhat lost at numerous points throughtout the testing process, and brought up specific issues pertaining to: 
 
 * the search bar not working
