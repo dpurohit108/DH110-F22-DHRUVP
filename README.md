@@ -1,4 +1,4 @@
-[# Assignment 08: Project Pitch & Portfolio](https://dpurohit108.github.io/DH110-F22-DHRUVP/)
+# [Assignment 08: Project Pitch & Portfolio](https://dpurohit108.github.io/DH110-F22-DHRUVP/)
 
 By: Dhruv Purohit, Digital Humanities 110 - Fall 2022
 
