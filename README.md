@@ -79,7 +79,7 @@ It was found that the issues that I had raised from the heuristic analysis were 
 
 Additional details on the usability testing can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment02.md).
 
-## User Research
+## User Research - Contextual Inquiry
 
 The user research part of this project involved a contextual inquiry. The contextual inquiry differed from the usability test in that it provided the test user with more general guidlines (rather that very specific tasks) to see how they navigated the website. The goal of thie inquiry was to observe how the user interacted with the website in a more natural setting. In order to facilitate a smooth process with the user, I prepared [this contextual inquiry guide](https://docs.google.com/document/d/1_hTVyhpJece9Vag8-CkiOGD3xA3O7QO6d4-hGxfVV98/edit). This document highlighted all the activities that were to be compleated by the user and included the following: 
 
