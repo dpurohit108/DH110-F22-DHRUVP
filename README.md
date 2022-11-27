@@ -70,7 +70,6 @@ The full usabiltiy test can be found below.
 
 <div style="text-align: center;"><iframe width="640" height="360" src="https://www.youtube.com/embed/8J-7qhC3U3M" title="110 Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-
 It was found that the issues that I had raised from the heuristic analysis were issues that the user faced while performing the usability testing. While the user was successful at completing a majority of the tasks (and subtasks) listed above, the user pointed out that the **most likely task*** they would complete was **the most difficult and time consuming**. The user was frustrated and somewhat lost at numerous points throughout the testing process, and brought up specific issues pertaining to: 
 
 * the search bar not working
@@ -78,11 +77,26 @@ It was found that the issues that I had raised from the heuristic analysis were 
 * the lack of consnsistency
 * overll poor design
 
-Additional details on the usability testing can be found on the [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment02.md).
+Additional details on the usability testing can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment02.md).
 
 ## User Research
 
-Further details on the user research process can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment03.md).
+The user research part of this project involved a contextual inquiry. The contextual inquiry differed from the usability test in that it provided the test user with more general guidlines (rather that very specific tasks) to see how they navigated the website. The goal of thie inquiry was to observe how the user interacted with the website in a more natural setting. In order to facilitate a smooth process with the user, I prepared [this contextual inquiry guide](https://docs.google.com/document/d/1_hTVyhpJece9Vag8-CkiOGD3xA3O7QO6d4-hGxfVV98/edit). This document highlighted all the activities that were to be compleated by the user and included the following: 
+
+1. Introductory/Background Questions: Asked to get a good understanding of the user's background and context with the topic.
+2. Observations During Activities: Used to observe the user in their natural web search setting and to document findings.
+3. Follow-up and Closing Questions: Ask the user about how they felt after the activities and get final thoughts.
+
+The live audio of the contextual inquiry can be seen [here](https://otter.ai/u/aQG3mYb4LGc0YGww5LUdvX6DMto) in addition to the [transcript](https://docs.google.com/document/d/1pvMEFMXPk14b4ZPewLB4gMEG761O3jPGm6tfoEgZTPU/edit?usp=sharing) and [field notes](https://docs.google.com/document/d/18ZU6pHUanSxlVs3BWZ0hgp5_mV55YhYwhWyC_Xa9kd0/edit?usp=sharing).
+
+This research aspect provided me with additional detail as to what to look for in an ideal site and how to improve the redesign. The process went well and the items that stood out to me the most were the following: 
+1. How the user viewed the presentation of information on the site
+2. The vast amount of information that the user found interesting
+3. How quickly the user was willing to integrate a change/alternative into their life 
+
+The user expressed that having a successful visit to the site depended on the clarity and simplicity of the information they read/received. At times, it was this process was challenging as it depended on the user speaking their mind while being guided throught the inquiry, however, overall it went well an provided me with further insight on how to redesign the website.
+
+Further details on the user research/contextual inquiry process can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment03.md).
 
 ## UX Storytelling
 
