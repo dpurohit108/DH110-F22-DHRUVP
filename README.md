@@ -67,7 +67,7 @@ Task 3: Suppose you are a researcher and want to obtain details on publications 
 Task 4: Suppose you want to sign up for the newsletter. 
 * Navigate to the page to sign up for the newsletter
 
-The full usabiltiy test can be found below. 
+The full usability test can be found below.
 
 <div style="text-align: center;"><iframe width="640" height="360" src="https://www.youtube.com/embed/8J-7qhC3U3M" title="110 Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
