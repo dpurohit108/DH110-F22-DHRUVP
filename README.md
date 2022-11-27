@@ -203,7 +203,7 @@ Additional details on the user interface design process can be found [here](http
 
 ## High-Fidelity Prototype
 
-Following all of the research and testing mentioned above, it was time to create the high fidelity (fully functioning) prototype. The goal of this step was to bring together the interface design along with elements from the low fidelity prototype and digitized wireflow to create a fully functioning website. This prototype was a great way for me to see how the website flowed, given the design changes that I wanted to make. 
+Following all of the research and testing mentioned above, it was time to create the high fidelity (fully functioning) prototype. The goal of this step was to bring together the interface design along with elements from the low fidelity prototype and digitized wireflow to create a fully functioning website. This prototype was a great way for me to see how the website flowed, given the design changes that I wanted to make. Prior to creating the high fidelity prototype, the digitized wireflow was re-created using the interface design. This can be found [here](https://www.figma.com/file/70jzqqbnqGPVP5KZgTsiL1/Updated-Flow?node-id=0%3A1&t=hHNvR5jRHP892VcB-1).
 
 The following tasks are supported by this interactive prototype:
 
@@ -219,7 +219,27 @@ Further details on the high-fidelity prototype can be found [here](https://githu
 
 ## Further Evaluations & Revisions
 
+### Accessibility Check (Evaluated During User Interface Design Process)
+
+### Impression Testing (Evaluated During User Interface Design Process)
+
+### Cognitive Walkthrough (Evaluated Following the High-Fidelity Prototype Development)
+
 ### Final Version Prototype 
+
+The revised prototype includes the following improvements:
+
+1. Changed colors of news articles/press releases to be consistent rather than different shades of blue.
+2. Ensured that the logo at the top of the page consistently linked back to the home page. 
+3. On the menu page, allow the user to return to the original menu when they click the up arrow on the sustainable development goals menu page. 
+4. Ensure that the hamburger menu bar is accessible from additional pages. 
+5. Redesign certain buttons to make them more intuitive and prominent. 
+6. Modified text on Goal 15 Details page to be left justified.
+7. Modified text headers on Goal 15 Details page to not look like buttons.
+8. Moving some buttons to make the navigation easier
+9. While the users said to maybe add icons instead of saying "Return to Home" I found that this was not the best idea as it made the button look less prominent and assumes that all users know that clicking a home icon will return them to the original home page. 
+
+**Given all of the feedback I received during this process, I am please to present the final version of the redesign for the UN Environment Programme website below:**
 
 <div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FClu9FojG6FHp8pglP3ZQbl%2FHigh-Fidelity-(V2)%3Fpage-id%3D0%253A1%26node-id%3D1%253A101%26viewport%3D566%252C307%252C0.11%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A101" allowfullscreen></iframe></div>
 
