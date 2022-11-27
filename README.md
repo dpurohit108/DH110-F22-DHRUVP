@@ -111,7 +111,7 @@ The purpose of the UX storytelling process is to gain better insight into variou
 
 Note: These generalized tasks/design solutions/features were re-defined in a more actionable way during the prototyping process. 
 
-User personas and empathy maps (below) were created to get a better understanding of the user's background, thoughts, and actions. The two users created were **Kasey and Kennedy**. Their details can be viewed below. Additionally two different scenarios were written (one for each user) that highlighted their interactions with the website, background to why they are searching for certain information, and how they interact with the website. Kasey's scenario can be viewed [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md#kaseys-scenario--journey-map-design-features-4--5) and Kennedy's scenario can be viewed [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md#kennedys-scenario--journey-map-design-features-1-2--3). Journey maps were also created for each user to highlight their process (initiation, frustration, solution, and goal) and journey through the website. The journey maps can be viewed below.
+User personas and empathy maps (below) were created to get a better understanding of the user's background, thoughts, and actions. The two users created were **Kasey and Kennedy**. Their details can be viewed below. Additionally two different scenarios were written (one for each user) that highlighted their interactions with the website, background to why they are searching for certain information, and how they interact with the website. Kasey's scenario can be viewed [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md#kaseys-scenario--journey-map-design-features-4--5) and Kennedy's scenario can be viewed [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md#kennedys-scenario--journey-map-design-features-1-2--3). Journey maps were also created for each user to highlight their process (initiation, frustration, solution, and goal) and journey through the website. The journey maps can be viewed below. Overall, through this process, I was able to gain a better understanding of some of the issues potential users may face with this web design, and how I can strive to make their visit to the website worth their time. 
 
 ### User Personas
 
@@ -136,7 +136,29 @@ User personas and empathy maps (below) were created to get a better understandin
 
 Further details on the UX storytelling process and scenarios can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md).
 
-## Initial Wireframes & Wireflow
+## Low-Fidelity Prototype (Initial Wireframes/Wireflow & Digitized Flow)
+
+Low fidelity prototyping allows the designer to start putting design changes into actions. Following the information taken from the personas and prior testing, the basic design of the website was drafted. These initial wireframes were drawn by hand and did not include any graphical design or excessive content. The following tasks are supported by this low-fidelity prototype:
+
+1. Find the list of all the sustainable development goals and find more details on goal 15 and the goal's challenges & solutions.
+2. Find information on practical tips that the user can implement to have a positive impact towards the goals, specifically related to goal 15.
+3. Subscribing to the newsletter to enable the user to stay engaged with the resources of the website.
+
+The improved design also included the following aesthetic & navigation design changes: 
+
+1. A new menu/navigation bar that better tells the user where they can find important information
+2. Improved placement of the search bar
+3. Identifiable ways for users to go back and exit certain windows/pages
+4. Shorter, more interactive pages rather than the existing pages where scrolling is endless
+
+<p align="center">
+  <img src="Assignments/flow1.png" alt="Wireframe & flow" width="500px"/>
+  <img src="Assignments/flow2.png" alt="Wireframe & flow" width="500px"/>
+</p>
+
+The initial wireframe/flow can be found [here](https://drive.google.com/file/d/1-sVjBUB7t0LdEpBJ19MOJOiVNGyOJX5w/view?usp=sharing). Following the creation of these wireframes/flows, user testing was performed.  
+
+User Testing Images: 
 
 <p align="center">
   <img src="Assignments/test1.jpg" alt="User test 1" width="300px"/>
@@ -150,28 +172,44 @@ Further details on the UX storytelling process and scenarios can be found [here]
   <img src="Assignments/test6.jpg" alt="User test 6" width="300px"/>
 </p>
 
-A link to the wireframes and wireflow marked up by the user during the test can be found [here](https://drive.google.com/file/d/13IMag3i6l7X_jxVeZ39IRzsCy2On1VnU/view?usp=sharing).
-
+The wireframes and wireflow marked up by the user during the test can be found [here](https://drive.google.com/file/d/13IMag3i6l7X_jxVeZ39IRzsCy2On1VnU/view?usp=sharing). Overall, this testing process was very effective. I got to see first hand how it was to have someone attempt to interact with my website design. This testing process provided good feedback on how I could re-structure aspects of my flow and framing process. It was important to observe the issues the user faced while interacting with my design. A few highlights that the user provided me with were (1) ensuring that there is a "Click Here" or "Learn More" on every button or box that leads to something else, (2) providing feedback and confirmation after the user joins the newsletter, and (3) ensuring that there is option to close everything (everything!) that the user may click or open. The full feedback can be viewed [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md#insights-changes--reflections). Following the feedback I recieved from the user, I edited the wireframes/flow to reflect their feedback. The revised version of the wireframes/flow can be found [here](https://drive.google.com/file/d/1md260priQJqlqggeKWmV3ALyhA8StgBB/view?usp=sharing).
 
 Further details on the wireframes can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md).
 
-## Low-Fidelity Prototype & Digitized Flow
-
-The initial digitized wireflow can be found below. 
+**Prior to beginning the user interface process, the wireframe/flow (edited with user feedback) was digitized on Figma. The initial digitized wireflow can be found below. Note: Per instructor feedback, the design was converted to a mobile version instead of desktop.**
 
 <div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAZGK2xOzvmFMts9cegN1mN%2FDigitized-Wireflow%3Fnode-id%3D0%253A1%26t%3Dv7UoJClQfxIDmy1K-1" allowfullscreen></iframe></div>
 
-Further details on the low-fidelity prototype can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md) and further details on the digitized flow can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md)
+The use of the digitized flow in the interface design (Assignment 6) can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md#wireframe-layout-choice)
 
-## User Interface Design
+## User Interface Graphic Design
 
-The interace design can be found below: 
+The next step in the design process was to design the graphical interface of the website. Given the digitized wireflow that was created based off of the user feedback during the low-fidelity prototyping (see above), one website page was chosen to perform user interface & graphical design. I chose the "Goals List" page. The interface design process for this website included the following processes: 
+
+1. Grid Design & Layout (aligning all items with a grid)
+2. Typographic Design & Variations (designing & varying the text fonts)
+3. Shape Design & Variations (designing & varying the shape of boxes/buttons)
+4. Color Design & Variations (designing & varying the color options, specifically a light and dark mode)
+5. Accessibility Check (check on color contrast)
+6. User Impression Testing
+7. Revisions from user feedback
+8. Final Interface Design
+
+The interace design process (from start to finish, with each step guided by arrows) can be found below. The color scheme was extracted from the logo using Adobe were used, in addition to a couple of other colors in order to add variation and to pass color contrast tests. All colors pass the color contrast accessibility check.  
 
 <div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHlX4ncn8STQ01Od3mUnfZv%2FA6%253A-Interface-Design%3Fnode-id%3D0%253A1%26t%3DroNDWpXDMUy8XsqF-1" allowfullscreen></iframe></div>
 
 Additional details on the user interface design process can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md). 
 
 ## High-Fidelity Prototype
+
+Following all of the research and testing mentioned above, it was time to create the high fidelity (fully functioning) prototype. The goal of this step was to bring together the interface design along with elements from the low fidelity prototype and digitized wireflow to create a fully functioning website. This prototype was a great way for me to see how the website flowed, given the design changes that I wanted to make. 
+
+The following tasks are supported by this interactive prototype:
+
+1. Find the list of all the sustainable development goals and find more details on goal 15 and the goal's challenges & solutions.
+2. Find information on practical tips that the user can implement to have a positive impact towards the goals, specifically related to goal 15.
+3. Subsribing to the newsletter to enable the user to stay engaged with the resources of the website.
 
 The high fidelity prototype can be found below.
 
