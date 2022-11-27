@@ -4,11 +4,12 @@ By: Dhruv Purohit, Digital Humanities 110 - Fall 2022
 
 ## About the Project
 The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible. In doing so, the aim is to make it easier for the user to find relevant information on sustainability in a quick and efficient manner. Currently, the site is difficult to navigate and disorganized. Additionally, information on the UN’s Sustainable Development Goals is difficult to locate with a few clicks. Therefore, one of the main goals is to make it easy for the user to find information on these goals and what they are. The website was evaluated and design changes and decisions were made over the course of 7 assignments in an 8 week period. These assignments highlighted the following of analysis and design: 
-* Competitor Analysis
-* User Research 
+* Competitor Analysis (Heuristic Analysis & Usability Testing)
+* User Research (Contextual Inquiry)
 * UX Storytelling
-* Wireframes & User Interface Design
+* Wireframes & Wireflow
 * Low-Fidelity Prototype
+* User Interface Design
 * High-Fidelity Prototype
 
 ## Design Statement
@@ -81,7 +82,7 @@ Additional details on the usability testing can be found [here](https://github.c
 
 ## User Research - Contextual Inquiry
 
-The user research part of this project involved a contextual inquiry. The contextual inquiry differed from the usability test in that it provided the test user with more general guidlines (rather that very specific tasks) to see how they navigated the website. The goal of thie inquiry was to observe how the user interacted with the website in a more natural setting. In order to facilitate a smooth process with the user, I prepared [this contextual inquiry guide](https://docs.google.com/document/d/1_hTVyhpJece9Vag8-CkiOGD3xA3O7QO6d4-hGxfVV98/edit). This document highlighted all the activities that were to be compleated by the user and included the following: 
+The user research part of this project involved a contextual inquiry. The contextual inquiry differed from the usability test in that it provided the test user with more general guidelines (rather than very specific tasks) to see how they navigated the website. The goal of the inquiry was to observe how the user interacted with the website in a more natural setting. In order to facilitate a smooth process with the user, I prepared [this contextual inquiry guide](https://docs.google.com/document/d/1_hTVyhpJece9Vag8-CkiOGD3xA3O7QO6d4-hGxfVV98/edit). This document highlighted all the activities that were to be completed by the user and included the following: 
 
 1. Introductory/Background Questions: Asked to get a good understanding of the user's background and context with the topic.
 2. Observations During Activities: Used to observe the user in their natural web search setting and to document findings.
@@ -94,11 +95,23 @@ This research aspect provided me with additional detail as to what to look for i
 2. The vast amount of information that the user found interesting
 3. How quickly the user was willing to integrate a change/alternative into their life 
 
-The user expressed that having a successful visit to the site depended on the clarity and simplicity of the information they read/received. At times, it was this process was challenging as it depended on the user speaking their mind while being guided throught the inquiry, however, overall it went well an provided me with further insight on how to redesign the website.
+The user expressed that having a successful visit to the site depended on the clarity and simplicity of the information they read/received. At times, this process was challenging as it depended on the user speaking their mind while being guided through the inquiry, however, overall it went well and provided me with further insight on how to redesign the website.
 
 Further details on the user research/contextual inquiry process can be found [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment03.md).
 
 ## UX Storytelling
+
+The purpose of the UX storytelling process is to gain better insight into various scenarios that users may experience with the website. This process allows for the designer (me) to be in the user's shoes and get a better feel for some of the challenges they may experience. Based off ot the previous three parts of the project (heuristic evaluation, usability testing, and user research), the following five design solutions/features were tested as part of the storytelling process: 
+
+1. Consolidated top menu bar that is well organized and easy to navigate.
+2. Clear identification of the tab to find information on the sustainable development goals (identifiable using words).
+3. Clear identification and list of the goals, with the user being able to quickly click on one of the colorful boxes to gain more information/detail on a specific goal.
+4. Improved newsletter sign up that does not generate errors or take information that is not satisfactory. Additionally, providing information about what the newsletter will provide the user with and how often they will receive it.
+5. A page that provides the user with simple and meaningful recommendations on changes they can make in their day to day life to have a positive impact towards achieving the sustainable goals.
+
+Note: These generalized tasks/design solutions/features were re-defined in a more actionable way during the prototyping process. 
+
+User personas and empathy maps (below) were created to get a better understanding of the user's background, thoughts, and actions. The two users created were **Kasey and Kennedy**. Their details can be viewed below. Additionally two different scenarios were written (one for each user) that highlighted their interactions with the website, background to why they are searching for certain information, and how they interact with the website. Kasey's scenario can be viewed [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md#kaseys-scenario--journey-map-design-features-4--5) and Kennedy's scenario can be viewed [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment04.md#kennedys-scenario--journey-map-design-features-1-2--3). Journey maps were also created for each user to highlight their process (initiation, frustration, solution, and goal) and journey through the website. The journey maps can be viewed below.
 
 ### User Personas
 
