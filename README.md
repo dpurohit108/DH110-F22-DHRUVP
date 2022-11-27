@@ -152,8 +152,8 @@ The improved design also included the following aesthetic & navigation design ch
 4. Shorter, more interactive pages rather than the existing pages where scrolling is endless
 
 <p align="center">
-  <img src="Assignments/flow1.png" alt="Wireframe & flow" width="500px"/>
-  <img src="Assignments/flow2.png" alt="Wireframe & flow" width="500px"/>
+  <img src="Assignments/flow1.png" alt="Wireframe & flow" width="350px"/>
+  <img src="Assignments/flow2.png" alt="Wireframe & flow" width="350px"/>
 </p>
 
 The initial wireframe/flow can be found [here](https://drive.google.com/file/d/1-sVjBUB7t0LdEpBJ19MOJOiVNGyOJX5w/view?usp=sharing). Following the creation of these wireframes/flows, user testing was performed.  
