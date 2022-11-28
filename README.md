@@ -277,7 +277,7 @@ The revised prototype includes the following improvements:
 8. Moving some buttons to make the navigation easier
 9. While the users said to maybe add icons instead of saying "Return to Home" I found that this was not the best idea as it made the button look less prominent and assumes that all users know that clicking a home icon will return them to the original home page. 
 
-**Given all of the feedback I received during this process, I am please to present the final version of the redesign for the UN Environment Programme website below:**
+**Given all of the feedback I received during this process, I am pleased to present the final version of the redesign for the UN Environment Programme website below:**
 
 <div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FClu9FojG6FHp8pglP3ZQbl%2FHigh-Fidelity-(V2)%3Fpage-id%3D0%253A1%26node-id%3D1%253A101%26viewport%3D566%252C307%252C0.11%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A101" allowfullscreen></iframe></div>
 
