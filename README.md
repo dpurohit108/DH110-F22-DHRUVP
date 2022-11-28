@@ -3,7 +3,9 @@
 By: Dhruv Purohit, Digital Humanities 110 - Fall 2022
 
 ## About the Project
-The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible. In doing so, the aim is to make it easier for the user to find relevant information on sustainability in a quick and efficient manner. Currently, the site is difficult to navigate and disorganized. Additionally, information on the UN’s Sustainable Development Goals is difficult to locate with a few clicks. Therefore, one of the main goals is to make it easy for the user to find information on these goals and what they are. The website was evaluated and design changes and decisions were made over the course of 7 assignments in an 8 week period. These assignments highlighted the following of analysis and design: 
+The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible. The framework for this project started when given the task to choose one of the UN's sustainable development goals as a general topic. The focus for this project was goal 15, entitled life on land. The essence behind goal 15 is to "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss." 
+
+The goal of this redesign process is to make the website more accessible, uniform, and usable. In doing so, the aim is to make it easier for the user to find relevant information on sustainability in a quick and efficient manner. With an overwhelming amount of information available on the web these days, users can easily become frustrated if they don't find relevant information quickly. The website was evaluated and design changes and decisions were made over the course of 7 assignments in an 8 week period. These assignments highlighted the following analytical and design elements: 
 * Competitor Analysis (Heuristic Analysis & Usability Testing)
 * User Research (Contextual Inquiry)
 * UX Storytelling
@@ -14,6 +16,9 @@ The goal of this project is to redesign the current [UN Environment Programme](h
 
 ## Design Statement
 
+**The goal of this design is to preserve the genuine need for people to learn about environmental issues/topics while making access to such topics easy, efficient, and worth a user's time.** Through this redesign, I hope to impact adults and the way they learn about sustainability issues & topics in a practical and efficient manner. The overall topic of sustainability and the environment can be overwhelming for people, so ensuring **easy and relevant** access is critical.
+
+Currently, the site is difficult to navigate and disorganized. Additionally, information on the UN’s Sustainable Development Goals is difficult to locate with a few clicks. Therefore, one of the main goals is to make it easy for the user to find information on these goals and what they are. Based off of the research and testing I performed throughout this 8 week period, I came up with design changes that ultimately lead to the creation of a high fidelity prototype. Read on to learn about the research and design process and to discover the final product. 
 
 ## Competitor Analysis
 
