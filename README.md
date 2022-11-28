@@ -1,7 +1,6 @@
 # [Gaining Easier Access to Sustainability Issues and Solutions: UN Environment Programme Website Redesign](https://dpurohit108.github.io/DH110-F22-DHRUVP/)
 
 By: Dhruv Purohit, Digital Humanities 110 - Fall 2022
-theme: Architect
 
 ## About the Project
 The goal of this project is to redesign the current [UN Environment Programme](https://www.unep.org) website to make it more accessible. In doing so, the aim is to make it easier for the user to find relevant information on sustainability in a quick and efficient manner. Currently, the site is difficult to navigate and disorganized. Additionally, information on the UN’s Sustainable Development Goals is difficult to locate with a few clicks. Therefore, one of the main goals is to make it easy for the user to find information on these goals and what they are. The website was evaluated and design changes and decisions were made over the course of 7 assignments in an 8 week period. These assignments highlighted the following of analysis and design: 
