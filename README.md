@@ -221,9 +221,42 @@ Further details on the high-fidelity prototype can be found [here](https://githu
 
 ### Accessibility Check (Evaluated During User Interface Design Process)
 
+During the user interface design process, the color contrasts were conducted using the the [Spark](https://www.getstark.co/) plugin. The results can be seen below. 
+
+<p align="center">
+  <img src="Assignments/access1.png" alt="Color accessibility" width="200px"/>
+  <img src="Assignments/access2.png" alt="Color accessibility" width="200px"/>
+  <img src="Assignments/access3.png" alt="Color accessibility" width="200px"/>
+  <img src="Assignments/access4.png" alt="Color accessibility" width="200px"/>
+</p>
+
+All of the color contrasts passed the WCAG 2.0 AA level. Three of the four tests did not pass the AAA level, however, since all the text falls into the "large text" category and since we are primarily concerned with the AA test, I came to the conclusion that the chosen colors were accessible. 
+
 ### Impression Testing (Evaluated During User Interface Design Process)
 
+During the user interface design process, I conducted impression testing. As the user viewed my screen designs, I took note of the comments that were made, both positive and negative. I requested the user to give their impression of the current and final design choice. Following their initial, quick impression of my design, I asked them some further questions about the design to ensure that they were able to explain their thinking to me.
+
+User quotes: 
+
+* "The color choice is dynamic and catches my eye"
+* "Adding some sort of symbol next to the newsletter sign-up would be nice"
+* "The design is very symmetrical"
+* "The page is filled with blue buttons, however, the black buttons stand out"
+* "It would be helpful to have some context to the page. A small bit of text at the beginning would be ideal"
+
+Overall, the user found my interface design pretty good and liked the design choices I made. I found that this test was a good and quick way to gain an initial impression on my design variations and decisions. The user was able to provide me with some feedback that led to some additional design changes. Details on the full impression test can be viewed [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment06.md#impression-test). 
+
 ### Cognitive Walkthrough (Evaluated Following the High-Fidelity Prototype Development)
+
+A cognitive walkthrough was performed following the creation of the high fidelity prototype. The purpose of this walkthrough is to gain user insight on potential issues or flaws with the near final design of the product. The users were asked to complete the three tasks highlighted/associated with the high fidelity prototype and make comments throughout the process. The walkthrough went smoothly and provided me with good insight on what aspects still needed fine tuning. The feedback provided included the following: 
+
+* Ensuring uniformness across all pages
+* Revising the colors on the main screen (for each news article)
+* Providing context to the newsletter
+* Ensuring that buttons stand out and are not confused by headers (particular to Goal 15 details page) 
+* ...and more
+
+To read about the full details of the cognative walkthrough, click [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment07.md#cognitive-walkthrough-updated-following-in-class-cognitive-walkthrough). 
 
 ### Final Version Prototype 
 
@@ -248,3 +281,6 @@ The revised prototype includes the following improvements:
 embed pitch video here
 
 ## Conclusion
+
+This process has taught me so much about the research and design process that is necessary in order to create a successful product. At the beginning of the quarter, I had no idea that I was going to learn so many details on the design process. However, each assignment really showed me how important all the details are as part of the process. 
+
