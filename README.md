@@ -166,15 +166,15 @@ The initial wireframe/flow can be found [here](https://drive.google.com/file/d/1
 User Testing Images: 
 
 <p align="center">
-  <img src="Assignments/test1.jpg" alt="User test 1" width="300px"/>
-  <img src="Assignments/test2.jpg" alt="User test 2" width="300px"/>
-  <img src="Assignments/test3.jpg" alt="User test 3" width="300px"/>
+  <img src="Assignments/test1.jpg" alt="User test 1" width="250px"/>
+  <img src="Assignments/test2.jpg" alt="User test 2" width="250px"/>
+  <img src="Assignments/test3.jpg" alt="User test 3" width="250px"/>
 </p>
 
 <p align="center">
-  <img src="Assignments/test4.jpg" alt="User test 4" width="300px"/>
-  <img src="Assignments/test5.jpg" alt="User test 5" width="300px"/>
-  <img src="Assignments/test6.jpg" alt="User test 6" width="300px"/>
+  <img src="Assignments/test4.jpg" alt="User test 4" width="250px"/>
+  <img src="Assignments/test5.jpg" alt="User test 5" width="250px"/>
+  <img src="Assignments/test6.jpg" alt="User test 6" width="250px"/>
 </p>
 
 The wireframes and wireflow marked up by the user during the test can be found [here](https://drive.google.com/file/d/13IMag3i6l7X_jxVeZ39IRzsCy2On1VnU/view?usp=sharing). Overall, this testing process was very effective. I got to see first hand how it was to have someone attempt to interact with my website design. This testing process provided good feedback on how I could re-structure aspects of my flow and framing process. It was important to observe the issues the user faced while interacting with my design. A few highlights that the user provided me with were (1) ensuring that there is a "Click Here" or "Learn More" on every button or box that leads to something else, (2) providing feedback and confirmation after the user joins the newsletter, and (3) ensuring that there is option to close everything (everything!) that the user may click or open. The full feedback can be viewed [here](https://github.com/dpurohit108/DH110-F22-DHRUVP/blob/main/Assignments/Assignment05.md#insights-changes--reflections). Following the feedback I recieved from the user, I edited the wireframes/flow to reflect their feedback. The revised version of the wireframes/flow can be found [here](https://drive.google.com/file/d/1md260priQJqlqggeKWmV3ALyhA8StgBB/view?usp=sharing).
