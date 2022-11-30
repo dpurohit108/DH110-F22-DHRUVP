@@ -283,9 +283,9 @@ The revised prototype includes the following improvements:
 
 ## Pitch Video
 
-embed pitch video here
 
 ## Conclusion
 
 This process has taught me so much about the research and design process that is necessary in order to create a successful product. At the beginning of the quarter, I had no idea that I was going to learn so many details on the design process. However, each assignment really showed me how important all the details are as part of the process. This was my first attempt at a UI/UX design & research project. From the very beginning, it was very evident that this process was to be driven by issues a potential user would face. Everything that I designed or modified had to be done with the user in mind. I found at times that we become used to certain things that a new user would not know how to use. Therefore, going back and thinking "will the user be able to do this" or "will the user understand the meaning of this'' with every design change is critical. Sometimes, all it can mean is adding more context, while at other times it can mean scrapping a current design for something totally different. While I spent a lot of time on each step in this process, there was a clear end goal and positive outcome that contributed in a meaningful way to the overall design process. 
-
+ 
+If I were to expand this project and make it even more robust, I think it would be good to survey a wide variety of users and conduct more testing throughout the design process. Overall, the more feedback that is received, the better chances that the website will work for a wider variety of people. This was my first time using Figma, and I learned a lot. However, as I become more familiar with the functions Figma provides, it is possible to continue to improve the various prototypes and design features. Overall, I enjoyed learning about UI/UX design and putting it into practice all quarter long with this project. I also feel that I achieved my goal of redesigning the UNEP website to make access to environmental and sustainability topics easy, efficient, and worth a user's time while also maintaining the importance and relevance of these topics. 
