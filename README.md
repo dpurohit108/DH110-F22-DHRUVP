@@ -275,7 +275,8 @@ The revised prototype includes the following improvements:
 6. Modified text on Goal 15 Details page to be left justified.
 7. Modified text headers on Goal 15 Details page to not look like buttons.
 8. Moving some buttons to make the navigation easier
-9. While the users said to maybe add icons instead of saying "Return to Home" I found that this was not the best idea as it made the button look less prominent and assumes that all users know that clicking a home icon will return them to the original home page. 
+9. Added context what what the newsletter provides
+10. While the users said to maybe add icons instead of saying "Return to Home" I found that this was not the best idea as it made the button look less prominent and assumes that all users know that clicking a home icon will return them to the original home page. 
 
 **Given all of the feedback I received during this process, I am pleased to present the final version of the redesign for the UN Environment Programme website below:**
 
@@ -284,6 +285,8 @@ The revised prototype includes the following improvements:
 ## Pitch Video
 
 <div style="text-align: center;"><iframe width="640" height="360" src="https://www.youtube.com/embed/DlEOiYJHYZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+The pitch video can also ve viewed directly on Youtube by clicking [here](https://www.youtube.com/watch?v=DlEOiYJHYZM&ab_channel=Dhruv). 
 
 ## Conclusion
 
