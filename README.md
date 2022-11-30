@@ -279,7 +279,7 @@ The revised prototype includes the following improvements:
 
 **Given all of the feedback I received during this process, I am pleased to present the final version of the redesign for the UN Environment Programme website below:**
 
-<div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FClu9FojG6FHp8pglP3ZQbl%2FHigh-Fidelity-(V2)%3Fpage-id%3D0%253A1%26node-id%3D1%253A101%26viewport%3D566%252C307%252C0.11%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A101" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FClu9FojG6FHp8pglP3ZQbl%2FHigh-Fidelity-(V2)%3Fpage-id%3D0%253A1%26node-id%3D1%253A101%26viewport%3D763%252C930%252C0.4%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A101" allowfullscreen></iframe></div>
 
 ## Pitch Video
 
